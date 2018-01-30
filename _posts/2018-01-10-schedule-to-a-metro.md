@@ -60,7 +60,11 @@ the last 3 months of transit for that card at the MyTripTime Dashboard link from
 the main page for a given SmarTrip card. Here they report my overall on-time
 score:
 
+![](https://cdn-images-1.medium.com/max/800/1*QL7CoYeppDCh542mVf4_Pg.png)
+
 and then specific scores for my most common trips:
+
+![](https://cdn-images-1.medium.com/max/800/1*lcuxLEI4rqIfaeWrlbpLmA.png)
 
 The numbers here are a bit confusing. The minutes are based on my time swiping
 in and out at each station. Most of the time I’m not immediately getting on a
@@ -88,6 +92,8 @@ learned that old data rolls off the system. My original code looked back to
 October, 2015, but now December, 2015 is the last available month. If you want
 your data, go and get it. I wrote a little script to look for my morning
 commutes and output the results as a csv to eyeball it for errors:
+
+![](https://cdn-images-1.medium.com/max/1000/1*Yz0FEwS6KdRUam7pdvvM4g.png)
 
 While looking at the results I manually added in the trains for my morning
 commute M1 is my typical train recently at a 6:34 scheduled time, M2 is supposed
@@ -121,4 +127,4 @@ By clapping more or less, you can signal to us which stories really stand out.
 ### [Connor Waldoch](https://medium.com/@waldoch)
 
 Whatever catches my eye. |
-[https://github.com/cwal37](https://github.com/cwaldoch)
+[https://github.com/cwal37](https://github.com/cwal37)
