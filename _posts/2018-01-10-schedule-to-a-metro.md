@@ -102,8 +102,12 @@ and ≥ train[n-1] was assigned to train[n]. From there I wrote another little
 script to iterate over every trip on each train and calculate if I arrived
 within 1 to 21 minutes of my predicted arrival:
 
+![](https://cdn-images-1.medium.com/max/1000/1*OAyI599qO9igjJItQdlryA.png)
+
 Finally, I added some code to plot the different arrival by % on-time with
 minutes added from 1–20 (as well as a weighted average)and got these results:
+
+![](https://cdn-images-1.medium.com/max/1000/1*nzug-PbbnXmdQ41ubpXdng.png)
 
 I am slightly generous to the scheduling in some ways, so it makes sense that my
 ultimate result at even 20 minutes over the ideal 38 would be greater than 86%,
@@ -115,16 +119,3 @@ to make sure I made the bus. It seems that I’ve probably continued to make the
 bus at a similar rate as before (since the purple line is one of my more
 reliable trips), but my trips have been (and presumably felt) longer, which
 prompted me to look into this in the first place.
-
-* [Transportation](https://medium.com/tag/transportation?source=post)
-* [Python](https://medium.com/tag/python?source=post)
-* [Metro](https://medium.com/tag/metro?source=post)
-* [Washington DC](https://medium.com/tag/washington-dc?source=post)
-* [Trains](https://medium.com/tag/trains?source=post)
-
-By clapping more or less, you can signal to us which stories really stand out.
-
-### [Connor Waldoch](https://medium.com/@waldoch)
-
-Whatever catches my eye. |
-[https://github.com/cwal37](https://github.com/cwal37)
