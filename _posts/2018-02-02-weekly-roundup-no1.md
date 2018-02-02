@@ -4,11 +4,13 @@ As part of establishing a consistency, I'll be doing brief weekly roundups. Not 
 
 ![](https://farm5.staticflickr.com/4767/40008318902_48332e21e7_c.jpg)
 
+
 ## Things I did this week:
 * Made an excellent cake
 * Started this website
 * Finished a blog post
 * Traveled back from Indiana
+
 
 
 ## Things I read this week:
@@ -23,11 +25,13 @@ As part of establishing a consistency, I'll be doing brief weekly roundups. Not 
 * [Expensive Rail:](https://www.citylab.com/transportation/2018/01/why-its-so-expensive-to-build-urban-rail-in-the-us/551408/)
 
 
+
 ## Things I'm working through:
 * [The Castle - Kafka](http://amzn.to/2FFTfwF)
 * [Nixonland - Perlstein](http://amzn.to/2Ey4V5b)
 * [Misbehaving - Thaler](http://amzn.to/2GFsk5i)
 * [Learning HoloViews](http://holoviews.org/)
+
 
 
 ## Things I'm thinking about:
