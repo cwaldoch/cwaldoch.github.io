@@ -12,7 +12,7 @@ As part of establishing consistency, I'll be doing brief weekly roundups. Not to
 * Started this website
 * Finished a blog post
 * Traveled back from Indiana
-<p></p>
+
 ## Things I read this week:
 ------
 * [Hollow Trump](https://www.vox.com/2018/1/30/16950192/state-of-the-union-problems)
