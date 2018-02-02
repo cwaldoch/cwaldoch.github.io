@@ -1,31 +1,71 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/CV">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Connor Waldoch" />
+   <link href="http://cwaldoch.github.io" rel="alternate" title="Connor Waldoch" type="application/atom+xml" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div class="site">
+  <div class="title">
+    <a href="/">Connor Waldoch</a>
+    <a class="extra" href="/">home</a>
+  </div>
+
+  {{ content }}
+
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Connor Waldoch
+        <br />
 	    		<ul>
 	        		<li><a href="mailto:connor.waldoch@gmail.com">email</a></li>
 	        		<li><a href="twitter.com/connorwaldoch">Twitter</a></li>
 				<li><a href="https://github.com/cwaldoch">github.com/cwaldoch</a></li>
 				<li><a href="www.linkedin.com/in/connorwaldoch">LinkedIn</a></li>
 				</ul>
-			</footer>
-		</body>
-	</html>
+        <br />
+        connor.waldoch@gmail.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/cwaldoch/">github.com/cwaldoch</a><br />
+        <a href="http://twitter.com/connorwaldoch/">twitter.com/connorwaldoch</a><br />
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(206,0.3,"www03");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+</body>
+</html>
