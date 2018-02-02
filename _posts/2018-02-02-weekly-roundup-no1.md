@@ -8,7 +8,7 @@ As part of establishing consistency, I'll be doing brief weekly roundups. Not to
 
 ## Things I did this week:
 ------
-* Made an excellent cake
+* Made an excellent cake (pictured above)
 * Started this website
 * Finished a blog post
 * Traveled back from Indiana
