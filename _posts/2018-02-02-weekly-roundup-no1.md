@@ -2,7 +2,7 @@
 
 As part of establishing a consistency, I'll be doing brief weekly roundups. Not touching on everything I read, did, or am thinking about, but just some highlights from the previous week. Categories might shift, so don't get too attached to anything. I'll also be writing most ofthese on my Friday commute, so the editing might not be immediately perfect.
 
-![](https://github.com/cwaldoch/cwaldoch.github.io/blob/master/_posts/IMG_3113.jpg?raw=true)
+![](https://github.com/cwaldoch/cwaldoch.github.io/blob/master/_posts/IMG_3113.JPG?raw=true)
 
 ## Things I did this week:
 * Made an excellent cake
