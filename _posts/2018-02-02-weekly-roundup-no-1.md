@@ -24,8 +24,8 @@ As part of establishing consistency, I'll be doing brief weekly roundups. Not to
 * [SpaceX Accidentally Saved a Rocket](https://arstechnica.com/science/2018/02/amazingly-spacex-fails-to-expend-its-rocket/)
 * [Friction over the Meander of Ancient Humans](https://arstechnica.com/science/2018/01/new-discoveries-raise-critical-questions-for-out-of-africa-hypothesis/)
 * [Condos Dissolve Themselves](https://ggwash.org/view/66349/the-huntington-club-redevelopment-is-a-hopeful-sign)
-* [Reviewing Monster Hunter](https://waypoint.vice.com/en_us/article/8xvpw5/monster-hunter-world-review)
-* [Expensive Rail](https://www.citylab.com/transportation/2018/01/why-its-so-expensive-to-build-urban-rail-in-the-us/551408/)  
+* [Hunting Monsters, Colonial Expression](https://waypoint.vice.com/en_us/article/8xvpw5/monster-hunter-world-review)
+* [Expensive American Rail](https://www.citylab.com/transportation/2018/01/why-its-so-expensive-to-build-urban-rail-in-the-us/551408/)  
 
 ![]()
 ## Things I'm working through:
