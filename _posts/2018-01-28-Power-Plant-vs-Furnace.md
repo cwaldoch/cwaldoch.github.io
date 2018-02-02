@@ -94,6 +94,10 @@ probably not less than $20,000 on the low end. Of course, since the GSHP unit
 costs less to operate you would eventually recoup your costs, and to close out,
 here are a few charts examining that:
 
+![](https://cdn-images-1.medium.com/max/800/1*DLfpnNi1Rz0VYIkJmeZGcQ.png)
+
+![](https://cdn-images-1.medium.com/max/1000/1*zVQ9i_l-XUGLt4ZHcWWWfQ.png)
+
 It’s important to note that this is a harsh look at GSHPs. I’m comparing a very
 expensive and large unit against its less efficient season, and I’m not doing
 any discounting or discussion of financing options. Additionally, there used to
@@ -101,6 +105,8 @@ be a 30% federal tax credit (through 2016) for installation of energy star
 certified systems. Exactly the type of example system we used. With that 30%
 applied as a straight reduction to install costs, it looks quite a bit
 different.
+
+![](https://cdn-images-1.medium.com/max/1000/1*5wI4cfayFLN_BRY_7TcYzQ.png)
 
 With all that in mind I hope this was at least a mildly interesting look into
 the competing uses for natural gas in colder climes, and the lack of efficiency
