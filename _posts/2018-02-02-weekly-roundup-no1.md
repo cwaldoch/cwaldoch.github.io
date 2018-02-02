@@ -35,8 +35,12 @@ As part of establishing a consistency, I'll be doing brief weekly roundups. Not 
 
 ## Things I'm thinking about:
 * How much does the network of small business park/university/neighborhood coal plants support small local rail networks?
+
+
 * Is the endowment effect visible in environmental compliance markets that have consignment?
+
 * What happens to an LNG terminal during extended drought?
+
 * State of the union sentiment or policy graphing.
 
 
