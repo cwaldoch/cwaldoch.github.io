@@ -8,9 +8,9 @@ As part of establishing consistency, I'll be doing brief weekly roundups. Not to
 
 ## Things I did this week:
 ------
-* Made an excellent cake (pictured above)
+* Made an excellent cake (pictured above, from [@bravetart's](https://twitter.com/bravetart) [excellent cookbook](http://amzn.to/2DWHJwa)
 * Started this website
-* Finished a blog post
+* [Finished a blog post](http://connorwaldoch.com/blog/2018/01/28/Power-Plant-vs-Furnace)
 * Traveled back from Indiana
 
 
