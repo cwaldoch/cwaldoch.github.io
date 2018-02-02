@@ -2,7 +2,7 @@
 
 As part of establishing a consistency, I'll be doing brief weekly roundups. Not touching on everything I read, did, or am thinking about, but just some highlights from the previous week. Categories might shift, so don't get too attached to anything. I'll also be writing most ofthese on my Friday commute, so the editing might not be immediately perfect.
 
-![](https://drive.google.com/file/d/1RD-npOoVaFwB0Qfvrl9ePDhAMvMWoCPJ)
+![](https://farm5.staticflickr.com/4767/40008318902_48332e21e7_c.jpg)
 
 ## Things I did this week:
 * Made an excellent cake
