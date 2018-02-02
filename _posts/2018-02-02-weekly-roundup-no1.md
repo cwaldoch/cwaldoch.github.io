@@ -14,16 +14,15 @@ As part of establishing a consistency, I'll be doing brief weekly roundups. Not 
 
 
 ## Things I read this week:
-* [Hollow Trump:](https://www.vox.com/2018/1/30/16950192/state-of-the-union-problems)
-* [Amazon Healthcare:](https://stratechery.com/2018/amazon-health/)
-* [Happy Buttons:](https://www.newyorker.com/magazine/2018/02/05/customer-satisfaction-at-the-push-of-a-button)
-* [iPhone X not selling great:](https://arstechnica.com/gadgets/2018/01/report-apple-making-fewer-iphone-xs-due-to-weak-demand/)
-* [SpaceX Accidentally Saved a Rocket:](https://arstechnica.com/science/2018/02/amazingly-spacex-fails-to-expend-its-rocket/)
-* [Friction over the Meander of Ancient Humans:](https://arstechnica.com/science/2018/01/new-discoveries-raise-critical-questions-for-out-of-africa-hypothesis/)
-* [Condos Dissolve Themselves:](https://ggwash.org/view/66349/the-huntington-club-redevelopment-is-a-hopeful-sign)
-* [Reviewing Monster Hunter:](https://waypoint.vice.com/en_us/article/8xvpw5/monster-hunter-world-review)
-* [Expensive Rail:](https://www.citylab.com/transportation/2018/01/why-its-so-expensive-to-build-urban-rail-in-the-us/551408/)
-
+* [Hollow Trump](https://www.vox.com/2018/1/30/16950192/state-of-the-union-problems)
+* [Amazon Healthcare](https://stratechery.com/2018/amazon-health/)
+* [Happy Buttons](https://www.newyorker.com/magazine/2018/02/05/customer-satisfaction-at-the-push-of-a-button)
+* [iPhone X not selling great](https://arstechnica.com/gadgets/2018/01/report-apple-making-fewer-iphone-xs-due-to-weak-demand/)
+* [SpaceX Accidentally Saved a Rocket](https://arstechnica.com/science/2018/02/amazingly-spacex-fails-to-expend-its-rocket/)
+* [Friction over the Meander of Ancient Humans](https://arstechnica.com/science/2018/01/new-discoveries-raise-critical-questions-for-out-of-africa-hypothesis/)
+* [Condos Dissolve Themselves](https://ggwash.org/view/66349/the-huntington-club-redevelopment-is-a-hopeful-sign)
+* [Reviewing Monster Hunter](https://waypoint.vice.com/en_us/article/8xvpw5/monster-hunter-world-review)
+* [Expensive Rail](https://www.citylab.com/transportation/2018/01/why-its-so-expensive-to-build-urban-rail-in-the-us/551408/)
 
 
 ## Things I'm working through:
