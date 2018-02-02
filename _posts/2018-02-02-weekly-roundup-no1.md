@@ -37,7 +37,7 @@ As part of establishing a consistency, I'll be doing brief weekly roundups. Not 
 * [Nixonland - Perlstein](http://amzn.to/2Ey4V5b)
 * [Misbehaving - Thaler](http://amzn.to/2GFsk5i)
 * [Learning HoloViews](http://holoviews.org/)
-
+![]
 ## Things I'm thinking about:
 ------
 * Relationship between small rail networks and "neighborhood" coal plants?
