@@ -1,19 +1,20 @@
 # Herfindahl-Hirschman at the Movies
 
 ## Disney Acquires Fox
-In a move that’s been rumored for weeks and discussed for years the Disney behemoth purchased a large chunk of Fox this morning for $52.4 billion. One thing that stood out to me in the coverage of such a massive merger was the anemic attention given to any potential anti-trust implications in the wake of what appeared to be a significant concentration in certain fields of media. I know the DOJ has been somewhat weak in the area for several decades, but the overwhelming feeling of foregone conclusion in media coverage felt off to me.
+In a move that’s been rumored for weeks and discussed for years [the Disney behemoth purchased a large chunk of Fox this morning for $52.4 billion](https://www.washingtonpost.com/news/business/wp/2017/12/14/disney-buys-much-of-fox-in-mega-merger-that-will-shake-world-of-entertainment-and-media/?utm_term=.09305d0665db). One thing that stood out to me in the coverage of such a massive merger was the anemic attention given to any potential anti-trust implications in the wake of what appeared to be a significant concentration in certain fields of media. I know the DOJ has been somewhat weak in the area for several decades, but the overwhelming feeling of foregone conclusion in media coverage felt off to me.
 
 A few people expressed dissent, as mentioned in the article linked above, but it seems like the overwhelming majority, from Wall Street, to reporters and analysts presume the deal will go forward. Additionally, at least some of those expressing skepticism appear somewhat more focused on the erratic nature of the current administration rather than market power concerns. It’s possible I’m just overly suspicious due to my day job of monitoring and analyzing energy market processes and outcomes, which have some natural tendencies towards these outcomes, but I thought that even a superficial look would be a fun evening project.
 
 ## What to Measure?
-In terms of quick and dirty analyses with real endorsement from enforcement bodies, the Herfindahl-Hirschman Index (HHI) seemed like a great entry point. Wikipedia has a good opening line:
+In terms of quick and dirty analyses with real endorsement from enforcement bodies, the Herfindahl-Hirschman Index (HHI) seemed like a great entry point. [Wikipedia has a good opening line](https://en.wikipedia.org/wiki/Herfindahl_index):
 
-The Herfindahl index (also known as Herfindahl–Hirschman Index, HHI, or sometimes HHI-score) is a measure of the size of firms in relation to the industry and an indicator of the amount of competition among them.
-HHI is something I’ve occasionally calculated in other endeavors, so I’m familiar with the 0–10,000 structure of the metric and how to calculate it. The Department of Justice defines handy tiers of HHI values that industries can fall into when agencies are conducting analysis:
+"The Herfindahl index (also known as Herfindahl–Hirschman Index, HHI, or sometimes HHI-score) is a measure of the size of firms in relation to the industry and an indicator of the amount of competition among them."
 
-Below 1,500 — Not Concentrated
-1,500–2,500 — Moderately Concentrated
-Greater than 2,500 — Highly Concentrated
+HHI is something I’ve occasionally calculated in other endeavors, so I’m familiar with the 0–10,000 structure of the metric and how to calculate it. [The Department of Justice defines handy tiers of HHI values](https://www.justice.gov/atr/herfindahl-hirschman-index) that industries can fall into when agencies are conducting analysis:
+
+* Below 1,500 — Not Concentrated
+* 1,500–2,500 — Moderately Concentrated
+* Greater than 2,500 — Highly Concentrated
 These values don’t inherently force action, but they provide a heuristic through which to consider a particular market. So now I’ve got a metric, but how the heck are we gonna apply this to a wide-ranging media conglomerate?
 
 ## Python Scraping Mojo
@@ -31,10 +32,12 @@ The last piece before actually calculating HHI is the potentially very tedious m
 I ended up assigning the top 70 major studios, which involved checking against 86 smaller studios. I missed 3 smaller studios around the 50 firm mark as their abbreviations weren’t clear to me, but they shouldn’t have an impact as I’m replacing them with close to identical dollar amounts (to be honest, this part totally sucked, and I would rethink my initial data grabbing process now that I know more).
 
 ## Results
+![](https://cdn-images-1.medium.com/max/1000/1*zSi4eovl66ZNAvXKAIrclQ.png)
 
-Three things are immediately apparent: HHI might have been rising already, this merger shifts the concentration up, and the volatility of the movie industry causes interesting year-to-year fluctuations (which is expected). At this point, it’s useful to go back to the DOJ and consider their more detailed guidance on HHI, specifically:
+Three things are immediately apparent: HHI might have been rising already, this merger shifts the concentration up, and the volatility of the movie industry causes interesting year-to-year fluctuations (which is expected). At this point, it’s useful to go back to the DOJ and consider [their more detailed guidance on HHI, specifically](https://www.justice.gov/atr/15-concentration-and-market-shares):
 
-b) Post-Merger HHI Between 1000 and 1800. The Agency regards markets in this region to be moderately concentrated. Mergers producing an increase in the HHI of less than 100 points in moderately concentrated markets post-merger are unlikely to have adverse competitive consequences and ordinarily require no further analysis. Mergers producing an increase in the HHI of more than 100 points in moderately concentrated markets post-merger potentially raise significant competitive concerns depending on the factors set forth in Sections 2–5 of the Guidelines.
+"b) Post-Merger HHI Between 1000 and 1800. The Agency regards markets in this region to be moderately concentrated. Mergers producing an increase in the HHI of less than 100 points in moderately concentrated markets post-merger are unlikely to have adverse competitive consequences and ordinarily require no further analysis. Mergers producing an increase in the HHI of more than 100 points in moderately concentrated markets post-merger potentially raise significant competitive concerns depending on the factors set forth in Sections 2–5 of the Guidelines."
+
 In my data, the 2016 HHI moves from 1261 to 1741.
 
 Given the box office successes of 2017 so far, a similar spread certainly seems possible. All of this is rough, but I hope it demonstrated how anyone can try and think about what you see in the news to work through what’s happening and what isn’t.
