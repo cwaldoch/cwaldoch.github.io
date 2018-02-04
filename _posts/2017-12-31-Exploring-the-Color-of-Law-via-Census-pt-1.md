@@ -52,23 +52,31 @@ So now that I have the layout in my head as a concept I can think about how to p
 
 Before I continue, I should check how these values work as identifiers to filter the data down. In this case, I’m simply taking the first values in a given column to filter the dataframe down (and store it in a new variable in order to maintain the original).
 
+![]()https://cdn-images-1.medium.com/max/800/1*RQYCRyRKyMH7wg_FRlLjeA.png
 
 Over 13 million rows to only 38, that’s not bad! However, that’s still quite a few for a single county+year+race pairing, what’s in there?
 
+![](https://cdn-images-1.medium.com/max/1000/1*hgzPvq7KSdJddf1E2FcsAw.png)
 
 Oh right, age and sex. Very useful for more nuanced analysis, but not necessary for where I’m starting, which is going to rely on aggregating county-level populations purely by race. Because the only distinctions left in each row were age and sex, it seems like the identifiers I initially chose will be enough to get a broad picture.
 
 Now I’ll write a basic structure for the loop then start to work through what might happen on the inside (also, I’m importing pdb up top so I can do some interactive work mid-code):
 
+![](https://cdn-images-1.medium.com/max/800/1*VLbsdLZGqQSWu6X66C94-g.png)
+
 
 Immediately I realize I’ve made a mistake. I just pointed out that I would get multiple rows as a result from the county->year->race filter, so rather than iterating over the resulting rows I should sum them by race. Thankfully pandas has a great builtin groupby function (note: for now I’m ignoring the hispanic flag because the impetus of the book and what I’m thinking about is the systemic disenfranchisement of African Americans from the housing market and subsidies enjoyed [overwhelmingly, but not solely] by white Americans):
 
+![](https://cdn-images-1.medium.com/max/800/1*-vezADqLwi_ZHHJs2-a_qA.png)
 
 From here I did a bunch of testing and had a few issues, but ended up with data packaged away into nested dictionaries.
+
+![](https://cdn-images-1.medium.com/max/800/1*OVf0iJdXlXK1FCPs9jy9pA.png)
 
 
 Each key in resultsDict should be an individual county, whose mapped value is also a dictionary whose keys are years:
 
+![](https://cdn-images-1.medium.com/max/1000/1*fHXkdhl76jvcmB2_AU1PzA.png)
 
 Key here is remembering where I put things and relying on the ordering to have not somehow gotten wonky partway through.
 
@@ -79,6 +87,8 @@ but . . .
 Another mistake. Because I didn’t label anything I don’t actually know which population value is which when there’s no value for a race flag. This occurs to me as I write code for unspooling the data. I need to go back and construct the data differently. :(
 
 This fix will also allow me to go back and fixthat error I’m excepting, proving once again that you should solve your problems at the beginning instead of just hoping they won’t keep coming up. Now I fill in 0s for every county-year pairing that doesn’t have one of the race categories.
+
+![](https://cdn-images-1.medium.com/max/800/1*Kbm5bVXMSyR-zJfGJQfSkw.png)
 
 
 Now I can get to pulling those dictionaries apart and stitching them back into a dataframe that is a little easier on me conceptually. Also, I can save the resulting product so that I don’t need to process the initial csv every time I run the script. This saves a time, as my inefficient processing of those 13.8 million rows takes a few minutes on my computer.
