@@ -25,22 +25,29 @@ Realistically, I doubt I can infer anything directly toward the structural preju
 ## Onwards into Python
 
 ![](https://cdn-images-1.medium.com/max/800/1*VGOSlNmpcLd4wbHy4NQ50Q.png)
+
 To start, we only need pandas, although that will probably change. I didn’t know anything about this data heading in, so I had to check out the column headers:
+
 ![](https://cdn-images-1.medium.com/max/800/1*611WVOFxCtAvR4NFLi4S9w.png)
 
 Ok, so what are unique values in the ‘race’ column?
+
 ![](https://cdn-images-1.medium.com/max/800/1*ZqqLuGZl_Yg0jUka4PMQVQ.png)
 
 From there I returned to the NBER website and followed a link out to SEER in order to get the data layout/dictionary and understand what those values meant:
+
 ![](https://cdn-images-1.medium.com/max/800/1*wI1hrzzTABjrbx1GfWosnw.png)
 
 I also need to take a look at what’s in a row of this data:
+
 ![](https://cdn-images-1.medium.com/max/800/1*5FyXIPPlSCto9PufXZPIMQ.png)
 
 Turns out that I should probably make a unique identifier since the countyFIPS isn’t totally there. Plus, I want to be able to pull out state associations more easily going forward. TO do that, let’s use a zip inside of a list comprehension:
+
 ![](https://cdn-images-1.medium.com/max/800/1*k8Dywj3lS4xz57ObaHV1Gg.png)
 
 So now that I have the layout in my head as a concept I can think about how to parse the data and churn out some associations. Before I start filtering data down I know it’s pretty likely I’ll want lists of the unique values in identifier columns. In this case, county, race, and year are all identifiers I think will come in handy when parsing the data.
+
 ![](https://cdn-images-1.medium.com/max/800/1*d8KHSQT2V6l6YC0NcWWeOA.png)
 
 Before I continue, I should check how these values work as identifiers to filter the data down. In this case, I’m simply taking the first values in a given column to filter the dataframe down (and store it in a new variable in order to maintain the original).
