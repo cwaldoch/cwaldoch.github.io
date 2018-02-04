@@ -93,11 +93,13 @@ This fix will also allow me to go back and fixthat error I’m excepting, provin
 
 Now I can get to pulling those dictionaries apart and stitching them back into a dataframe that is a little easier on me conceptually. Also, I can save the resulting product so that I don’t need to process the initial csv every time I run the script. This saves a time, as my inefficient processing of those 13.8 million rows takes a few minutes on my computer.
 
+![](https://cdn-images-1.medium.com/max/800/1*tlWHeM2ohSrDeL3M7BsElA.png)
 
 Here I’m going through the keys of each dictionary and creating a stack of lists that I ultimately turn into a dataframe and save back to disk as a csv file. I named the columns very simply, ‘wp’ is white population, ‘wc’ is white change, and so on. The exported file is a hair over 6MB on disk and an Excel-friendly 146k rows.
 
 At this point I also wrap the whole thing in a function so I can turn it on and off by just not calling it instead of commenting large blocks of code in and out of service:
 
+![](https://cdn-images-1.medium.com/max/800/1*NzYS7m0J1AYoWTP31n8-tA.png)
 
 As always, I’ve bit off more than I intended for a Saturday evening, but let’s finish it out by at least looking at one of the questions I had above.
 
@@ -106,36 +108,46 @@ Looking back to my first question to myself, I was considering how to identify c
 
 There was one final glitch though, infinite values. Because any increase from 0 isn’t measurable as a percent, those values come through as infinite and are trouble in a bunch of other processes. To deal with this I scanned the total population changes of these cases, and since they were all quite small I made the executive decision to simply remove them, although I could revisit these counties in the future. To remove them I used numpy to change them to nans and then dropped the nans:
 
+![](https://cdn-images-1.medium.com/max/800/1*vzF7QxeBkqOKRReMCcOhyw.png)
 
 Now I need to filter down the results to get potentially meaningful county identification. Big changes in population are likely to be counties with tiny populations. It’s unlikely we’d be able to link any events to counties this small, so let’s roll back a bit and filter one of the earlier dataframes to remove counties with tiny populations. I’m adding a new column, the total county population, which didn’t previously exist
 
+![](https://cdn-images-1.medium.com/max/800/1*Dc5ID0Q7KWPMz9LloG9etQ.png)
 
 At this point I realized that there’s one additional flag that could be useful for distinguishing specific events. If a large swing is mirrored by the county’s majority race then it is more likely to be some kind of natural disaster or other event that affected the county’s population indiscriminately (or a records error). So, I add in a white percent change column, and then look for row that have the opposite sign for white and black population changes (i.e., +/-). We can be a bit clever here and use the numpy.sign() function on both columns and add them together. Values of +/- 2 are uninteresting, +/- 1 is more intriguing, and 0s are the potential jackpot as they could indicate divergent population trends. To make this more useful, very small percent changes could be rounded down to 0.
 
+![](https://cdn-images-1.medium.com/max/800/1*-XRkupKW9zKLDaoR6XOKdQ.png)
 
 Now I’ll take a few more steps to whittle down the data and hopefully get useful results.
 
+![](https://cdn-images-1.medium.com/max/800/1*RhyRQGCGqcOEJeOE9JQtyw.png)
 
 First, I add a new column to track total black population from the previous year by summing the current population with the change*-1. Then I’m filtering to only counties that have at least 50k in population (dfBC = dataframe Big Counties), a total black population of over 200, removing the county-year pairs with similar movement for both races, and finally splitting apart the filtered dataframe into big losses and gains. I end up with 4 rows in the Gain data, and 17 in the Loss data.
 
 The Gain results are interesting:
 
+![](https://cdn-images-1.medium.com/max/1000/1*-ywCHIGAALS29foTbEY5Xg.png)
 
-3 take place in the same county in successive years (a good reminder that I should add columns for cumulative change in 2/3/5/10/all year cycles). What’s up with that county? The FIPS code identifies it as Jefferson County in New York. First, a look at this change:
+3 take place in the same county in successive years (a good reminder that I should add columns for cumulative change in 2/3/5/10/all year cycles). What’s up with that county? The FIPS code identifies it as [Jefferson County in New York](https://en.wikipedia.org/wiki/Jefferson_County,_New_York). First, a look at this change:
 
+![](https://cdn-images-1.medium.com/max/800/1*kqUIsxcgJVW7r-nvh-otgA.png)
+
+![](https://cdn-images-1.medium.com/max/800/1*ZbSg0B9-xRyGLsF2V4P2SA.png)
 
 Above this, I added: “import matplotlib.pyplot as plt”
 
 The 1980–1985 period is the one I’m interested in here.
 I don’t see anything immediately from some imprecise googling of the county and terms such as “demographics change”, so I shift into a look at the population centers within the county, Watertown and Fort Drum. Watertown also turns up very little, although I do find some county documentation mentioning that this rural, northern NY county is more diverse than those surrounding it.
 
-Finally, hit on a year and possible cause. The spike in white population in the mid-1980s seems to be the reactivation of the 10th Infantry Light Division, but prior to that:
+Finally, hit on a year and possible cause. The spike in white population in the mid-1980s seems to be [the reactivation of the 10th Infantry Light Division](https://en.wikipedia.org/wiki/Fort_Drum#Renamed_Fort_Drum_and_after), but prior to that:
 
-In April 1980, B Company, 76th Engineer Battalion (Combat Heavy) was reassigned from Fort Meade, Maryland. It was followed by the rest of the battalion, with the exception of D Company, three years later.
-Was this unit primarily African-American? From looking at what documentation I can find, it seems the answer is no. They're not mentioned at all in an Army Corps report on the African American experience in the military. Instead of looking for specific years, perhaps I can find history on things mentioned in The Color of Law, such as public housing.
+"In April 1980, B Company, 76th Engineer Battalion (Combat Heavy) was reassigned from Fort Meade, Maryland. It was followed by the rest of the battalion, with the exception of D Company, three years later."
 
-Eventually I find the Watertown Housing Authority’s website, which has a convenient list of projects:
+Was this unit primarily African-American? From looking at what documentation I can find, it seems the answer is no. They're not mentioned at all in an [Army Corps report on the African American experience in the military](http://www.dtic.mil/dtic/tr/fulltext/u2/a350395.pdf). Instead of looking for specific years, perhaps I can find history on things mentioned in The Color of Law, such as public housing.
 
+Eventually I find the Watertown Housing Authority’s website, which has a [convenient list of projects](http://whany.org/about/history/):
+
+![](https://cdn-images-1.medium.com/max/800/1*N9dr0uiGmCD8bw7sLKI_jw.png)
 
 Because Cloverdale was among the oldest apartments, and since it was demolished it seems like a strong candidate to show up in the data. Between 2003 and 2009 Watertown lost ~10% of its black population (7,810 to 7,010), but in the following 6 years, it grew by nearly a third, from 7,010 to 9,193. The first direction seems reasonable (i.e., evictions and resettlement in the years leading up to demolition), the next 6 years are confusing. Did additional housing open up? Was there some relocation deal as part of demolishing Cloverdale? Did a new factory open, or an old facility refurbish?
 
