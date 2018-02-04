@@ -42,4 +42,4 @@ In my data, the 2016 HHI moves from 1261 to 1741.
 
 Given the box office successes of 2017 so far, a similar spread certainly seems possible. All of this is rough, but I hope it demonstrated how anyone can try and think about what you see in the news to work through what’s happening and what isn’t.
 
-Like always, everything’s on GitHub.
+[Like always, everything’s on GitHub.](https://github.com/cwal37/HHI_at_the_movies)
