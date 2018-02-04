@@ -15,33 +15,35 @@ However, blockbusting as a formalized and supported tactic was outlawed on the s
 Now that I’m directly mucking about with a dataframe I have a few thoughts on producing interesting results, some of which I might address separately in a future post.
 
 A method to identify counties with the largest absolute and % change might be an interesting proxy for reading up on news+year pairing in specific locations.
-Do those counties conform with narratives I already read in the book?
-Do the largest changes slow, indicating a kind of stratification?
-Can I identify urban+suburban pairings that are inherently linked via white flight?
-Can you identify inflection points based on events I have knowledge of or can track?
+* Do those counties conform with narratives I already read in the book?
+* Do the largest changes slow, indicating a kind of stratification?
+* Can I identify urban+suburban pairings that are inherently linked via white flight?
+* Can you identify inflection points based on events I have knowledge of or can track?
+
 Realistically, I doubt I can infer anything directly toward the structural prejudices underpinning what has occurred in American housing since the end of Reconstruction, but I can at least provide a better mental picture to myself on what some of these change could look like.
 
 ## Onwards into Python
 
+![](https://cdn-images-1.medium.com/max/800/1*VGOSlNmpcLd4wbHy4NQ50Q.png)
 To start, we only need pandas, although that will probably change. I didn’t know anything about this data heading in, so I had to check out the column headers:
-
+![](https://cdn-images-1.medium.com/max/800/1*611WVOFxCtAvR4NFLi4S9w.png)
 
 Ok, so what are unique values in the ‘race’ column?
-
+![](https://cdn-images-1.medium.com/max/800/1*ZqqLuGZl_Yg0jUka4PMQVQ.png)
 
 From there I returned to the NBER website and followed a link out to SEER in order to get the data layout/dictionary and understand what those values meant:
-
+![](https://cdn-images-1.medium.com/max/800/1*wI1hrzzTABjrbx1GfWosnw.png)
 
 I also need to take a look at what’s in a row of this data:
-
+![](https://cdn-images-1.medium.com/max/800/1*5FyXIPPlSCto9PufXZPIMQ.png)
 
 Turns out that I should probably make a unique identifier since the countyFIPS isn’t totally there. Plus, I want to be able to pull out state associations more easily going forward. TO do that, let’s use a zip inside of a list comprehension:
-
+![](https://cdn-images-1.medium.com/max/800/1*k8Dywj3lS4xz57ObaHV1Gg.png)
 
 So now that I have the layout in my head as a concept I can think about how to parse the data and churn out some associations. Before I start filtering data down I know it’s pretty likely I’ll want lists of the unique values in identifier columns. In this case, county, race, and year are all identifiers I think will come in handy when parsing the data.
+![](https://cdn-images-1.medium.com/max/800/1*d8KHSQT2V6l6YC0NcWWeOA.png)
 
-
-Before I continue, I should check how these values work as identifiers to filter the data down. In this case, I’m simply taking the first values in a given column to filter the dataframe down (and store it in a new variable in order to maintain t he original).
+Before I continue, I should check how these values work as identifiers to filter the data down. In this case, I’m simply taking the first values in a given column to filter the dataframe down (and store it in a new variable in order to maintain the original).
 
 
 Over 13 million rows to only 38, that’s not bad! However, that’s still quite a few for a single county+year+race pairing, what’s in there?
@@ -82,7 +84,7 @@ At this point I also wrap the whole thing in a function so I can turn it on and 
 
 As always, I’ve bit off more than I intended for a Saturday evening, but let’s finish it out by at least looking at one of the questions I had above.
 
-Meaningful Changes in Black Populations
+## Meaningful Changes in Black Populations
 Looking back to my first question to myself, I was considering how to identify counties that have particularly high rates of change. From there, you could look these counties up and try to identify specific events that led to these outcomes. If you were looking for specific tactics (like blockbusting or the demolition of public housing) outliers in this process could be helpful in identifying counties to look at more closely. So, I add a column to my results data calculating the percent change from year to year at column.
 
 There was one final glitch though, infinite values. Because any increase from 0 isn’t measurable as a percent, those values come through as infinite and are trouble in a bunch of other processes. To deal with this I scanned the total population changes of these cases, and since they were all quite small I made the executive decision to simply remove them, although I could revisit these counties in the future. To remove them I used numpy to change them to nans and then dropped the nans:
