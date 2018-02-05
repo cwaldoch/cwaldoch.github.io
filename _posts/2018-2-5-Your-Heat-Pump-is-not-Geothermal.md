@@ -8,7 +8,7 @@ I just wanted to clear up this misconception I hear quite a bit in the home ener
 
 ![](https://farm5.staticflickr.com/4756/26232595518_f1bd7932cd_o.png)
 
-Finally, these maps of ground surface temperature and then the temperature at a depth of 3.5km are also useful in the context. Additionally, the ground surface temperatures show why GSHPs are so efficient (and only fractionally as efficient during the winter) in their summertime cooling applications across the midwest and great plains.
+Finally, these maps of ground surface temperature and then the temperature at a depth of 3.5km are also useful for additional context. Additionally, the ground surface temperatures show why GSHPs are so efficient (and only fractionally as efficient during the winter) in their summertime cooling applications across the midwest and great plains.
 
 
 ![](https://farm5.staticflickr.com/4611/39394847774_94ed680e65_o.png)
