@@ -323,6 +323,6 @@ starting out, I hope this adequately demonstrates some basics. Next time I’ll
 dig back into an energy topic and focus less on the coding side of things. Now
 that the 2013 data is out, it’s time to analyze some trends.
 
-Again, like I said at the top, [all of this is avialable on GitHub if you are so
+Again, like I said at the top, [all of this is available on GitHub if you are so
 inclined](https://github.com/cwaldoch/EIA_860).
 
