@@ -304,8 +304,12 @@ Essentially, matplotlib is drawing a new line and resizing the graph as required
 with each successive loop. I also added a legend, which relies on the new label
 argument in the plot command.
 
+![](https://cdn-images-1.medium.com/max/800/1*Y3eW5V8PQOSpQ2A1gUeX2g.png)
+
 We can also dial it back to generate the same graph for traditional generation.
 Just change a few variable names and you’re done:
+
+![](https://cdn-images-1.medium.com/max/800/1*GqdU6LYv3NR5b8SVvDayAw.png)
 
 If you’re going to be doing a bunch of graphing, it would be even easier to
 throw the whole thing in a loop, and just choose your groups on the outside. One
