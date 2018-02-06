@@ -61,7 +61,7 @@ Now to look at the power plant efficiency of providing that electricity:
 ![](https://cdn-images-1.medium.com/max/800/1*PQkFEQGRU7XCgTPV_wZc2A.png)
 
 So, you have a somewhat lower operating cost, and a dramatically more efficient
-use of natural gas, what’s not to like? It all comes back to upfront costs at
+use of natural gas (note, it's 73% more homes, not 173% more, I just forgot to subtract the 1), what’s not to like? It all comes back to upfront costs at
 the home level, and historical incidence at the regional planning level. At the
 regional level, the natural gas transmission system in the northeastern united
 states simply wasn’t designed with large power plant draw downs in mind. It’s
