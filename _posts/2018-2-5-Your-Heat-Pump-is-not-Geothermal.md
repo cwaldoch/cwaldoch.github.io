@@ -4,7 +4,7 @@ I just wanted to clear up this misconception I hear quite a bit in the home ener
 
 ## A Look at Geothermal
 
-[MIT and INL produced an excellent report on this resource](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf) over a decade ago (the real money maps start on page 62). In most cases, geothermal resources are looked at from a largescale engineering, so that even when this resource is close enough to the surface to be efficient for home heating it tends to be a district or municipality-level resource. I mean, look at the costs associated with geothermal wells surveyed in the paper, they're well outside the range of an individual homeowner.
+[MIT and INL produced an excellent report on this resource](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf) over a decade ago (the real money maps start on page 62). In most cases, geothermal resources are looked at from a largescale engineering perspective, so that even when this resource is close enough to the surface to be efficient for home heating it tends to be a district or municipality-level resource. I mean, look at the costs associated with geothermal wells surveyed in the paper, they're well outside the range of an individual homeowner.
 
 ![](https://farm5.staticflickr.com/4756/26232595518_f1bd7932cd_o.png)
 
