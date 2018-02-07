@@ -10,8 +10,7 @@ The interval between trains at this time of day is supposed to be 8 minutes. Eac
 
 I used [Pythonista](http://omz-software.com/pythonista/) on my phone to do this.
 
-![](https://raw.githubusercontent.com/cwaldoch/cwaldoch.github.io/master/_posts/IMG_3205.PNG)
-
+![](https://farm5.staticflickr.com/4613/40135004561_4bf6afa691_c.jpg)
 
 ![](https://raw.githubusercontent.com/cwaldoch/cwaldoch.github.io/master/_posts/IMG_3207.PNG)
 
