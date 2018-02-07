@@ -1,3 +1,5 @@
+### Notes on CO2 Reduction in New England
+
 -Northern pass 1090 MW, $1.6 billion
 
 -1 MMBtu of displaced gas is 0.059 tons of carbon
