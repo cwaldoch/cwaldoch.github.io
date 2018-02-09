@@ -1,6 +1,6 @@
 ### Weekly Roundup # 2 - February 9th, 2018
 
-Another week on the books. We've got more rockets, an administration operating without clearance, and a volatile market.
+Another week on the books. We've got more rockets, an administration operating without clearance, and a volatile market. I've added a new category of posts, "Notes". They'll be shorter thoughts, typically sketched out entirely during a commute or in a spare 15 minutes. 
 
 ![](https://farm5.staticflickr.com/4748/39455823734_ee6e89f7d1_z.jpg)
 
