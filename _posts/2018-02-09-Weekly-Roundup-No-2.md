@@ -10,7 +10,7 @@ Another week on the books. We've got more rockets, an administration operating w
 * [Wrote this on how my commute works](http://connorwaldoch.com/blog/2018/02/07/Notes-How-Metro-Works)
 * [Jotted down some thoughts on CO2 costs in NE](http://connorwaldoch.com/blog/2018/02/06/Notes-New-England-CO2)
 * [Ground source is not geothermal](http://connorwaldoch.com/blog/2018/02/05/Your-Heat-Pump-is-not-Geothermal)
-* First book club meeting for The Castle. About halfway through and it feels like Kafka's writing is becoming more ephemeral. 
+* Guessed at my own lentil soup recipe that turned out to be pretty enjoyable. 
 
 ![]()
 ## Internet reading:
@@ -46,5 +46,11 @@ Another week on the books. We've got more rockets, an administration operating w
 * There's something about millennials supposedly not having enough kids, but as a big generation they're probably not going to have as many kids, plus coming up during a recession, what's up with birth rates and recessions?
 
 * [Yelp's Local Economic Outlook](https://www.yahoo.com/amphtml/finance/news/yelp-releases-local-economic-outlook-140000060.html#click=https://t.co/2DY6EKpBqa)
+
+![]()
+## Things I'm working on:
+------
+* A script to mostly automate these posts.
+* [Something with Metra data.](https://metrarail.com/about-metra/reports-documents/operations-ridership-data/station-level-data)
 
 
