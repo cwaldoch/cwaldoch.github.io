@@ -24,7 +24,7 @@
 ------
 * [Universal Payback](http://www.nber.org/papers/w24112)
 
-* [Down with student debt]http://www.levyinstitute.org/publications/the-macroeconomic-effects-of-student-debt-cancellation
+* [Down with student debt](http://www.levyinstitute.org/publications/the-macroeconomic-effects-of-student-debt-cancellation)
 
 ![]()
 ## Good Twitter
