@@ -23,8 +23,6 @@ This time around, the first  thing I tried resulted in success. I knew I could s
 
 ![The messy starting table.](https://farm5.staticflickr.com/4712/39315052655_e1807f35f5_z.jpg)
 
-In this case I think the simplest way to get to my desired result is individual construction of the lists that will comprice the columns in the dataframe. 
-
 ```
 from tabula import read_pdf
 import PyPDF2
@@ -44,7 +42,8 @@ resultPdf.close()
 ```
 ![Success!](https://farm5.staticflickr.com/4632/28433439879_96b0445780_z.jpg)
 
-
 In this case, the data has split column headers, multiple data points in individual "cells", and mixed string/integer data. This is where rule comes into the picture. You've got a nice dataframe in that everything is there and in roughly the right place, but it's still a bit muddled, and not in the row/column ordering I intuitively want. I'll typically write out a data structure with paper/whiteboard. Otherwise, I tend to waste a lot of time idly looping through the data and trying to organize it on the fly.
 
 ![Rough translation.](https://farm5.staticflickr.com/4764/25342486717_347ef396fc_z.jpg)
+
+In this case I think the simplest way to get to my desired result is individual construction of the lists that will comprise the columns in the dataframe. I'm taking the rest of this Sunday evening off though, so I'll write that up in a separate post last this week.
