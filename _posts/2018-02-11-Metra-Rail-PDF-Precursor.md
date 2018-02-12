@@ -1,14 +1,14 @@
-### Metra Rail Data: PDF Precursor
+# Metra Rail Data: PDF Precursor
 
 Occasionally I have the distinct displeasure of working with data locked away in PDFs. Last week I was thinking about the Metra commuter rail system in the Chicago metropolitan area, and found their data page. Of course, these reports were in everyone's favorite format, tables embedded into PDF files. After a bit of googling and attempting a few different things I happened upon a reliable way to pull out the information I wanted. Before I actually do anything with that data I thought it might be useful to write up that process, and just how I think about PDF files in general.
 
-# 4 Rules
+## 4 Rules
 1. It's relatively easy to get raw text from a modern pdf.
 2. Rule 1 does not apply to scanned or handwritten docs.
 3. Beyond raw text, java (or java bindings) is probably involved. 
 4. You're still going to need to manually QA/QC formatting.
 
-# The Process
+## The Process
 
 So how to get the PDF into Python to begin with? I'll often turn to PyPDF2. [PyPDF2 is an excellent pure-python library](https://github.com/mstamy2/PyPDF2) for extracting pdf text, as well as copying/saving/slicing pdf files together. In this case, you could pull in the tables as pure text in all of their character formatting glory, but it seems easier to me to end up with a dataframe and work from there. To do that we'll use tabula-py, [which is a library that provides python bindings](https://github.com/chezou/tabula-py) for tabula-java. Since it's based on a java app you'll also need to install java and make sure it's in your PATH (if you're on Windows). 
 
