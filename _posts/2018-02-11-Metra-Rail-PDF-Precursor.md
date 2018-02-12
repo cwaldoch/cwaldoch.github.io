@@ -23,6 +23,8 @@ This time around, the first  thing I tried resulted in success. I knew I could s
 
 ![The messy starting table.](https://farm5.staticflickr.com/4712/39315052655_e1807f35f5_z.jpg)
 
+In this case I think the simplest way to get to my desired result is individual construction of the lists that will comprice the columns in the dataframe. 
+
 ```
 from tabula import read_pdf
 import PyPDF2
