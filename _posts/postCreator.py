@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb 13 07:58:16 2018
+
+@author: cwaldoch
+"""
 import pdb
 wN = str(5)
 
@@ -17,7 +23,7 @@ imageLink = r'z.png'
 sectionContent = {}
 for sTexts, sLinks, sName in sectionZip:
     sectionContainer = []
-    #pdb.set_trace()
+    #
     sectionContentZip = list(zip(sTexts, sLinks))
     for sText, sLink in sectionContentZip:
         sectionContainer.append([sText, sLink])
@@ -28,7 +34,7 @@ file = open(fTitle,'w')
 for key in sectionContent:
     sItems = sectionContent[key]
     for sItem in sItems:
-		
+        #pdb.set_trace()
         if key == list(sectionContent.keys())[0] and sItem == sItems[0]:
         			
             file.write('###' + pTitle)
@@ -37,7 +43,7 @@ for key in sectionContent:
             file.write('\n')
             file.write(r'![]('+imageLink+')')
 			
-        if sItem == sItem[0]:
+        if sItem == sItems[0]:
             file.write('## ' + key)
             file.write('\n')
             file.write('* ['+sItem[0]+']('+sItem[1]+')')
