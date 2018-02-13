@@ -37,11 +37,12 @@ for key in sectionContent:
         #pdb.set_trace()
         if key == list(sectionContent.keys())[0] and sItem == sItems[0]:
         			
-            file.write('###' + pTitle)
-            file.write('')
+            file.write('### ' + pTitle)
+            file.write('\n')
             file.write(openingText)
             file.write('\n')
             file.write(r'![]('+imageLink+')')
+            file.write('\n')
 			
         if sItem == sItems[0]:
             file.write('## ' + key)
