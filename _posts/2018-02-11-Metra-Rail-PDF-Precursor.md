@@ -39,6 +39,7 @@ resultPdf = open('testsave.pdf', 'wb')
 pdfWriter.write(resultPdf)
 resultPdf.close()
 
+df = read_pdf('testsave.pdf')
 ```
 ![Success!](https://farm5.staticflickr.com/4632/28433439879_96b0445780_z.jpg)
 
