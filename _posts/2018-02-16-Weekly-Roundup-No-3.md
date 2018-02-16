@@ -1,6 +1,6 @@
 ### Weekly Roundup # 3 - February 16th, 2018
 
-This is the time of year when my job tends to become a bit overwhelming, so I'm not writing quite as much.  
+This is the time of year when my job tends to become a bit overwhelming, so I'm not writing quite as much, but my partner made me a Boston Cream Pie cake for my birthday, so that was pretty cool.  
 
 ![](https://farm5.staticflickr.com/4745/39588205084_b7aa452a75_c.jpg)
 
