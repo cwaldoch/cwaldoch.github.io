@@ -17,13 +17,13 @@ This is the time of year when my job tends to become a bit overwhelming, so I'm 
 ------
 * [If interested, read Nixonland](https://www.newyorker.com/magazine/2018/01/08/lessons-from-the-election-of-1968/amp?__twitter_impression=true)
 
-* [A new front in American cultural hegemony](https://www.theringer.com/platform/amp/2018/2/9/16994210/podcasts-soft-diplomacy-donald-trump-america?__twitter_impression=true)
+* [A New Front in American Cultural Hegemony](https://www.theringer.com/platform/amp/2018/2/9/16994210/podcasts-soft-diplomacy-donald-trump-america?__twitter_impression=true)
 
 * [Make America Less Safe Also](https://www.washingtonpost.com/amphtml/news/morning-mix/wp/2018/02/14/an-immigrant-called-9-1-1-to-report-a-crime-police-took-him-to-ice-in-handcuffs/?__twitter_impression=true)
 
 * [The Constitutional Argument for Guns is Bad](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/)
 
-* [One more proper noun added to an ever-growing list.](https://www.washingtonpost.com/national/after-newtown-shooting-mourning-parents-enter-into-the-lonely-quiet/2013/06/08/0235a882-cd32-11e2-9f1a-1a7cdee20287_story.html?utm_term=.c7a6169871b8)
+* ["One more proper noun added to an ever-growing list"](https://www.washingtonpost.com/national/after-newtown-shooting-mourning-parents-enter-into-the-lonely-quiet/2013/06/08/0235a882-cd32-11e2-9f1a-1a7cdee20287_story.html?utm_term=.c7a6169871b8)
 
 ![]()
 ## Working Through:
