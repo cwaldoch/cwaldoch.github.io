@@ -1,16 +1,23 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 13 07:58:16 2018
+Created on Sun Feb 11 17:34:25 2018
 
-@author: cwaldoch
+@author: Connor
 """
-import pdb
-wN = str(5)
+import datetime
+import numpy as np
+
+dateStart = datetime.datetime.strptime('20180127', '%Y%m%d')
+dateNow = datetime.datetime.now()
+dayDiff = dateNow - dateStart
+
+weekNum = str(int(np.ceil(dayDiff.days/7)))
+
 
 strDate = '2018-02-08'
 
-pTitle = 'Weekly Roundup-No. '+wN+' ' + strDate
-fTitle = strDate + '-Weekly-Roundup-No.-'+wN+'.md'
+pTitle = 'Weekly Roundup-No. '+weekNum+' ' + strDate
+fTitle = strDate + '-Weekly-Roundup-No.-'+weekNum+'.md'
 
 openingText = 'This is a story.'
 sectionNames = ['things', 'stuff', 'other things', 'other stuff']
