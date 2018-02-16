@@ -98,6 +98,6 @@ for key in sectionContent:
 file.close() 
 ```
 
-While this is the longest chunk of code here it's really pretty straightforward. It iterates over every key in the sectionContent dictionary, pulls out the content and writes it to a .md file (markdown). The '\n' strings I insert are line breaks. The  if/else around the length of sItem[1] is for section texts that don't have links. If there's no links that content will be an empty '' value, so a length that's not greater than 0. The result of this test post [looks like this](http://connorwaldoch.com/blog/2018/02/15/Automating-Round-up-Posts).
+While this is the longest chunk of code here it's really pretty straightforward. It iterates over every key in the sectionContent dictionary, pulls out the content and writes it to a .md file (markdown). The '\n' strings I insert are line breaks. The  if/else around the length of sItem[1] is for section texts that don't have links. If there's no links that content will be an empty '' value, so a length that's not greater than 0. The result of this test post [looks like this](http://connorwaldoch.com/blog/2000/01/01/example-auto-post).
 
 I set all of this up so that I can drop links into a script, hit run, have the output get put in the correct folder, sync via git and have the post show up without me editing directly on my phone.
