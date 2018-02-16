@@ -43,6 +43,7 @@ post-zipping this looks like:
 ```
 [(['1', '2'], ['1', '2'], 'things'), (['1', '2', '2'], ['1', '2', '2'], 'stuff'), (['a', 'b', 'c'], ['a', 'b', 'c'], 'other things'), (['r', 'b', 'f'], ['y', 'u', ''], 'other stuff')]
 ```
+
 The next bit of code creates a dictionary that will allow me to build the looping structure for writing the post. Dictionaries are great. You get to have an arbitrary "key" that then refers to an object or set of objects. This allows you to name variables with other variables in a loop where you don't always know what the variable names will be until you're in the loop.
 
 ```
@@ -66,7 +67,6 @@ file = open(fTitle,'w')
 for key in sectionContent:
     sItems = sectionContent[key]
     for sItem in sItems:
-        #pdb.set_trace()
         if key == list(sectionContent.keys())[0] and sItem == sItems[0]:
         			
             file.write('### ' + pTitle)
@@ -75,6 +75,7 @@ for key in sectionContent:
             file.write('\n')
             file.write(r'![]('+imageLink+')')
             file.write('\n')
+            
         if len(sItem[1]) > 0:			
             if sItem == sItems[0]:
                 file.write('## ' + key)
@@ -97,5 +98,6 @@ for key in sectionContent:
 file.close() 
 ```
 
-While the longest chunk of code here it's really pretty straightforward. It iterates over every key in the sectionContent dictionary, pulls out the content and writes it to a .md file (markdown). the '\n' strings I insert are line breaks. The  if/else around the length of sItem[1] is for section texts that don't have links. If there's no links that content will be an empty '' value, so a length that's not greater than 0. 
+While this is the longest chunk of code here it's really pretty straightforward. It iterates over every key in the sectionContent dictionary, pulls out the content and writes it to a .md file (markdown). The '\n' strings I insert are line breaks. The  if/else around the length of sItem[1] is for section texts that don't have links. If there's no links that content will be an empty '' value, so a length that's not greater than 0. The result of this test post [looks like this](http://connorwaldoch.com/blog/2018/02/15/Automating-Round-up-Posts).
 
+I set all of this up so that I can drop links into a script, hit run, have the output get put in the correct folder, sync via git and have the post show up without me editing directly on my phone.
