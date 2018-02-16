@@ -14,7 +14,7 @@ dayDiff = dateNow - dateStart
 weekNum = str(int(np.ceil(dayDiff.days/7)))
 
 
-strDate = '2018-02-08'
+strDate = dateNow.strftime("%Y-%m-%d")
 
 pTitle = 'Weekly Roundup-No. '+weekNum+' ' + strDate
 fTitle = strDate + '-Weekly-Roundup-No.-'+weekNum+'.md'
@@ -22,7 +22,7 @@ fTitle = strDate + '-Weekly-Roundup-No.-'+weekNum+'.md'
 openingText = 'This is a story.'
 sectionNames = ['things', 'stuff', 'other things', 'other stuff']
 sectionText = [['1', '2'], ['1', '2', '2'], ['a', 'b', 'c'], ['r', 'b', 'f']]
-sectionLinks = [['1', '2'], ['1', '2', '2'], ['a', 'b', 'c'], ['y', 'u', 't']]
+sectionLinks = [['1', '2'], ['1', '2', '2'], ['a', 'b', 'c'], ['y', 'u', '']]
 
 sectionZip = list(zip(sectionText, sectionLinks, sectionNames))
 
@@ -50,14 +50,23 @@ for key in sectionContent:
             file.write('\n')
             file.write(r'![]('+imageLink+')')
             file.write('\n')
-			
-        if sItem == sItems[0]:
-            file.write('## ' + key)
-            file.write('\n')
-            file.write('* ['+sItem[0]+']('+sItem[1]+')')
-            file.write('\n')
+        if len(sItem[1]) > 0:			
+            if sItem == sItems[0]:
+                file.write('## ' + key)
+                file.write('\n')
+                file.write('* ['+sItem[0]+']('+sItem[1]+')')
+                file.write('\n')
+            else:
+                file.write('* ['+sItem[0]+']('+sItem[1]+')')
+                file.write('\n')
         else:
-            file.write('* ['+sItem[0]+']('+sItem[1]+')')
-            file.write('\n')
+            if sItem == sItems[0]:
+                file.write('## ' + key)
+                file.write('\n')
+                file.write('* '+sItem[0])
+                file.write('\n')
+            else:
+                file.write('* '+sItem[0])
+                file.write('\n')
  
 file.close() 
