@@ -1,5 +1,7 @@
 ### Automating Markdown Posts with Python
 
+[Link to the script.](https://github.com/cwaldoch/cwaldoch.github.io/blob/master/_posts/postCreator.py)
+
 As I wrote last week's roundup post I realized there was no reason why I couldn't automate that process. It's easy enough to give python lists of items and have those lists be written to a text file in some particular order. There were a handful of issues as I prototyped the code, so let's walk through it!
 
 ```
