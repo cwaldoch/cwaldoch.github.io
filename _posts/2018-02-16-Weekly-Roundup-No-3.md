@@ -2,7 +2,7 @@
 
 This is the time of year when my job tends to become a bit overwhelming, so I'm not writing quite as much.  
 
-![](https://farm5.staticflickr.com/4748/39455823734_ee6e89f7d1_z.jpg)
+![](https://farm5.staticflickr.com/4745/39588205084_b7aa452a75_c.jpg)
 
 
 ## Things I did this week:
@@ -53,7 +53,7 @@ Amongst all of the depravity and administrative carnage it's important to keep t
 * [Really just everything from Adam Davidson](https://www.newyorker.com/contributors/adam-davidson)
 
 ![]()
-## Idle THoughts:
+## Idle Thoughts:
 ------
 * Orange juice, why? What is the history of it? Why is that the dominant juice, America was founded on cider, but prohibition and our Wars kind of tag teamed to ruin that. Was orange juice and Florida in general an extreme right time and place situation?
 * Headline I wouldn't be surprised to see: "American poor work harder and have less than anywhere else in the developed world."
