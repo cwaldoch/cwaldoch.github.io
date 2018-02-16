@@ -43,7 +43,11 @@ sectionZip = list(zip(sectionText, sectionLinks, sectionNames))
 ```
 post-zipping this looks like:
 ```
-[(['1', '2'], ['1', '2'], 'things'), (['1', '2', '2'], ['1', '2', '2'], 'stuff'), (['a', 'b', 'c'], ['a', 'b', 'c'], 'other things'), (['r', 'b', 'f'], ['y', 'u', ''], 'other stuff')]
+[(['1', '2'], ['1', '2'], 'things'),
+(['1', '2', '2'], ['1', '2', '2'], 'stuff'),
+(['a', 'b', 'c'], ['a', 'b', 'c'],
+'other things'), (['r', 'b', 'f'],
+['y', 'u', ''], 'other stuff')]
 ```
 
 The next bit of code creates a dictionary that will allow me to build the looping structure for writing the post. Dictionaries are great. You get to have an arbitrary "key" that then refers to an object or set of objects. This allows you to name variables with other variables in a loop where you don't always know what the variable names will be until you're in the loop.
