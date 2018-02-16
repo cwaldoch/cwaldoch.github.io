@@ -63,7 +63,7 @@ for sTexts, sLinks, sName in sectionZip:
         sectionContent[sName] = sectionContainer
 ```
 
-First, I initiate an empty dictionary. Second I start the loop by pulling a text, link, and name object from the sectionZip. For the first of these in this example, sTexts = ['1','2'], sLinks = ['1', '2'], and sName = 'things'. Then I'm creating an empty sectionContainer, which will contain the relevant section material. I also zip the section content together. Finally, I loop through the elements of that section, assign them to the list, and then assign that list to the sectionContent dictionary with the section name as the key. This is probably not the efficient way to do any of this, but it's functional, and I mostly wrote it on the train to work, so I feel pretty ok.
+First, I initiate an empty dictionary. Second, I start the loop by pulling a text, link, and name object from the sectionZip. For the first of these in this example, sTexts = ['1','2'], sLinks = ['1', '2'], and sName = 'things'. Then I'm creating an empty sectionContainer, which will contain the relevant section material. I also zip the section content together. Finally, I loop through the elements of that section, assign them to the list, and then assign that list to the sectionContent dictionary with the section name as the key. This is probably not the efficient way to do any of this, but it's functional, and I mostly wrote it on the train to work, so I feel pretty ok.
 
 Next up, the meat of this code, the actual post generation.
 
@@ -106,4 +106,4 @@ file.close()
 
 While this is the longest chunk of code here it's really pretty straightforward. It iterates over every key in the sectionContent dictionary, pulls out the content and writes it to a .md file (markdown). The '\n' strings I insert are line breaks. The  if/else around the length of sItem[1] is for section texts that don't have links. If there's no links that content will be an empty '' value, so a length that's not greater than 0. The result of this test post [looks like this](http://connorwaldoch.com/blog/2000/01/01/example-auto-post).
 
-I set all of this up so that I can drop links into a script, hit run, have the output get put in the correct folder, sync via git and have the post show up without me editing directly on my phone.
+I set all of this up so that I can drop links into a script, hit run, have the output get put in the correct folder, sync via git and have the post show up without me editing directly on my phone. If you have any questions feel free ot hit me up on [Twitter](https://twitter.com/ConnorWaldoch), I'm always more than happy to chat and explain (and if you have recs for improvement, that's even better).
