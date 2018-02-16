@@ -19,7 +19,7 @@ This is the time of year when my job tends to become a bit overwhelming, so I'm 
 
 * [A New Front in American Cultural Hegemony](https://www.theringer.com/platform/amp/2018/2/9/16994210/podcasts-soft-diplomacy-donald-trump-america?__twitter_impression=true)
 
-* [Make America Less Safe Also](https://www.washingtonpost.com/amphtml/news/morning-mix/wp/2018/02/14/an-immigrant-called-9-1-1-to-report-a-crime-police-took-him-to-ice-in-handcuffs/?__twitter_impression=true)
+* [MALSA! (Make America Less Safe Also)](https://www.washingtonpost.com/amphtml/news/morning-mix/wp/2018/02/14/an-immigrant-called-9-1-1-to-report-a-crime-police-took-him-to-ice-in-handcuffs/?__twitter_impression=true)
 
 * [The Constitutional Argument for Guns is Bad](http://www.nybooks.com/articles/1995/09/21/to-keep-and-bear-arms/)
 
