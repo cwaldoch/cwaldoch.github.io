@@ -1,7 +1,7 @@
 ### Weekly Roundup # 3 - February 16th, 2018
 
-This is the time of year when my job tends to become a bit overwhelming, so I'm not writing quite as much, but my partner made me a Boston Cream Pie cake for my birthday, so that was pretty cool.  
-
+This is the time of year when my job tends to become a bit overwhelming, so I'm not writing quite as much, but my partner made me a Boston Cream Pie cake for my birthday, so that was pretty cool. I was also published on Greater Greater Washington for the first time as a member of the elections committee, [writing about Virginia.](
+https://ggwash.org/view/66488/virginias-elections-wont-be-like-2017-but-there-are-a-few-big-ones-to-watch#comments)
 ![](https://farm5.staticflickr.com/4745/39588205084_b7aa452a75_c.jpg)
 
 
