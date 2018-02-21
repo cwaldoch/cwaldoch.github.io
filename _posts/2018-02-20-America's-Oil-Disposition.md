@@ -68,13 +68,6 @@ I had to do a bit of interpolating daily barrels out to monthly values to fit th
 
 I have a theory that the ability for this thread to continually find its way into modern American politics is the result of the true oil shocks occurring when our current political class was in its formative years.To start, I need some ages. [This WSJ infographic](http://online.wsj.com/public/resources/documents/info-CONGRESS_AGES_1009.html) was useful to quickly pull the ages I was looking for.
 
-In 2001, the average House age was ~55, and ~59 in the Senate. By 2011, legislators had aged up to 57 in the House, and 62 in the senate. For the first oil crisis in 1973, those 2001 legislators were on average in their mid 20s to early 20s, while the 2011 crop would have been in their late teens and mid 20s. While the pathways towards adult hood have become more disparate recently, personalities and opinions tend to cohere fairly early  in life. [Recent research has also indicated that those living under greater stress tend to move into adulthood earlier](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792649/). Given the relative largess of many legislators and the lack of intergenerational economic movement in America it could be reasonable to surmise a slightly later identity coherence for our average legislator, pushing out the age of adulthood "acquisition". Taken together, it doesn't seem terribly risky to guess that these major political events shaped the positions of modern legislators well past middle age.
-
-
-
-
-
-
-
+In 2001, the average House age was ~55, and ~59 in the Senate. By 2011, legislators had aged up to 57 in the House, and 62 in the senate. For the first oil crisis in 1973, those 2001 legislators were on average in their mid 20s to early 20s, while the 2011 crop would have been in their late teens and mid 20s. While the pathways towards adult hood have become more disparate recently, personalities and opinions tend to cohere fairly early  in life. [Recent research has also indicated that those living under greater stress tend to move into adulthood earlier](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792649/). Given the relative largess of many legislators and the lack of intergenerational economic movement in America it could be reasonable to surmise a slightly later identity coherence for our average legislator, pushing out the age of adulthood "acquisition". Taken together, it doesn't seem terribly risky to guess that these major political events shaped the positions of modern legislators well past both middle age and relevance.
 
 
