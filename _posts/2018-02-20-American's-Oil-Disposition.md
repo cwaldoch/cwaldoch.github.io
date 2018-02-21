@@ -1,6 +1,8 @@
 ### America's Oil Imports
 
-We are not dependent on foreign oil. We particularly don't rely on foreign oil from nominally hostile countries. The former has been true both relatively recently and in the past, the latter has almost always been the case since the US began relying on petroleum to move and produce. The singular period in which oil from elsewhere was both truly critical to the US and not generally available was the 70s. This time was the product of an emerging global market with a limited set of suppliers and a concentration of demand. Since then, supply has diversified and OPEC's sway has dwindled. This is all not to say that oil hasn't occasionally been expensive (commonly experienced directly by most Americans "at the pump"), but access has been consistent and diverse enough for a long enough period of time that the last ~20 years of "foreign oil" grandstanding should have been considered political malpractice outside of relatively small pockets of time. Fossil fuel resource exploration and extraction also follows boom and bust cycles naturally as low prices tend to suppress investment in future supply, but that is certainly not the underpinning of the fear in American politics around oil. Rather, I believe this meme has its roots in those oil shocks of the 70s and the phenomenon of generational memory. But first, data.
+We are not utterly dependent on foreign oil. We particularly don't rely on foreign oil from nominally hostile countries. The former has been true both relatively recently and in the past, the latter has almost always been the case since the US began relying on petroleum to move and produce. The singular period in which oil from elsewhere was both truly critical to the US and not generally available was the 70s. This time was the product of an emerging global market with a limited set of suppliers and a concentration of demand. Since then, supply has diversified and OPEC's sway has dwindled. 
+
+This is all not to say that oil hasn't occasionally been expensive (commonly experienced directly by most Americans "at the pump"), but access has been consistent and diverse enough for a long enough period of time that the last ~20 years of "foreign oil" grandstanding should have been considered political malpractice outside of relatively small pockets of time. Fossil fuel resource exploration and extraction also follows boom and bust cycles naturally as low prices tend to suppress investment in future supply, but that is certainly not the underpinning of the fear in American politics around oil. Rather, I believe this meme has its roots in those oil shocks of the 70s and the phenomenon of generational memory. But first, data.
 
 ## Data+Python
 The EIA has a [nice database](https://www.eia.gov/dnav/pet/pet_move_impcus_a2_nus_ep00_im0_mbbl_m.htm) of U.S. petroleum imports stretching back to 1981, which begins to differentiate different import sources in 1993. There are many columns, with long, annoying names. Fortunately, they're also standardized so with a little Python string splitting action I can get the regional or country names I want. I threw in US Production too to make things more clear. 
@@ -54,11 +56,11 @@ plt.show()
 
 ## Graphs
 
-[Oil Graph #1](https://farm5.staticflickr.com/4610/40345677812_b411f07ce4_z.jpg)
+![Oil Graph #1](https://farm5.staticflickr.com/4610/40345677812_b411f07ce4_z.jpg)
 
 Unfortunately, this doesn't go back far enough. In fact, it's somewhat tantalizing to end when it does for the OPEC vs. Non-OPEC comparison. We need to go further. An older and more useful EIA table can be [found here](https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0507). While there's no immediately clear way to download the data directly, if you graph it you'll be given an option to grab the results. 
 
-[Oil Graph #2](https://farm5.staticflickr.com/4770/26520072898_7b3045978d_z.jpg)
+![Oil Graph #2](https://farm5.staticflickr.com/4770/26520072898_7b3045978d_z.jpg)
 
 I had to do a bit of interpolating daily barrels out to monthly values to fit the format I was doing (hence the steps), but overall, this graph is suddenly far more informative. Both times the US encountered an "energy crisis" real or somewhat invented (1970s vs 1990), OPEC had an outsized share of our imports.  One more note, this graph doesn't tell the whole story. The US has a large position in terms of the refining and production of various petroleum products, and not all oil is created equal, with various uses for different grades. Additionally, oil is a fungible, global commodity. All of that is to say that not all of the oil produced in and imported to the US is being consumed here.
 
