@@ -60,7 +60,7 @@ plt.show()
 
 Unfortunately, this doesn't go back far enough. In fact, it's somewhat tantalizing to end when it does for the OPEC vs. Non-OPEC comparison. We need to go further. An older and more useful EIA table can be [found here](https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0507). While there's no immediately clear way to download the data directly, if you graph it you'll be given an option to grab the results. 
 
-![Oil Graph #2](https://farm5.staticflickr.com/4659/26520450248_a4e7c50471_c.jpg)
+![Oil Graph #2](https://farm5.staticflickr.com/4659/26520450248_a4e7c50471_b.jpg)
 
 I had to do a bit of interpolating daily barrels out to monthly values to fit the format I was doing (hence the steps), but overall, this graph is suddenly far more informative. Both times the US encountered an "energy crisis" real or somewhat invented (1970s vs 1990), OPEC had an outsized share of our imports.  One more note, this graph doesn't tell the whole story. The US has a large position in terms of the refining and production of various petroleum products, and not all oil is created equal, with various uses for different grades. Additionally, oil is a fungible, global commodity. All of that is to say that not all of the oil produced in and imported to the US is being consumed here.
 
