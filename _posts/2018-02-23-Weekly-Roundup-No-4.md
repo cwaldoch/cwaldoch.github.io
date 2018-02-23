@@ -30,14 +30,14 @@ I closed out the analysis on one annual report at work, and immediately moved on
 
 * [Rex Tillerson relies on Wild West Fantasy](https://www.cbsnews.com/amp/news/rex-tillerson-secretary-of-state-60-minutes-interview/)
 
-* [At least read the editor's note] (http://www.newsweek.com/newsweek-manhattan-da-olivet-university-david-jang-fired-new-york-media-813949)
+* [At least read the editor's note](http://www.newsweek.com/newsweek-manhattan-da-olivet-university-david-jang-fired-new-york-media-813949)
 
 
 ![]()
 
 # Longer and Thoughtful Reads
 
-* [Ratatouille had something to say] (https://substreammagazine.com/2017/06/ten-years-later-ratatouille/)
+* [Ratatouille had something to say](https://substreammagazine.com/2017/06/ten-years-later-ratatouille/)
 * [Sherman, Atlanta, and the (white, landowning) traitorous South](https://pando.com/2014/11/20/the-war-nerd-why-sherman-was-right-to-burn-atlanta/)
 
 
@@ -49,7 +49,7 @@ I closed out the analysis on one annual report at work, and immediately moved on
 
 * [Russia's Influence is Energy-Dependent](https://amp.businessinsider.com/r-trump-energy-dominance-policy-pits-washington-against-moscow-2018-2)
 
-* [Pruitt, Trucks, and Tennessee] (https://twitter.com/ericliptonnyt/status/966466378172698624)
+* [Pruitt, Trucks, and Tennessee](https://twitter.com/ericliptonnyt/status/966466378172698624)
 
 ![]()
 
@@ -59,7 +59,7 @@ I closed out the analysis on one annual report at work, and immediately moved on
 * [NYT Opinion. . . ¯\_(ツ)_/¯](https://twitter.com/dylanmatt/status/965578876956143616)
 * [All the warning signs in the world](https://twitter.com/mattdpearce/status/964526122376376321)
 * [A Face-meltingly hot take on shooting survivors](https://twitter.com/natesilver538/status/965991712551251968)
-* [Trump is twitter, twitter is trump](https://twitter.com/mattyglesias/status/966726039807385600)
+* [Trump is Twitter, Twitter is Trump](https://twitter.com/mattyglesias/status/966726039807385600)
 
 
 ![]()
