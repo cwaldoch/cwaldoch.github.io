@@ -21,7 +21,7 @@ I closed out the analysis on one annual report at work, and immediately moved on
 * [Fossils at Bears Ears. Of course.](https://www.washingtonpost.com/amphtml/news/speaking-of-science/wp/2018/02/22/spectacular-fossils-found-at-bears-ears-right-where-trump-removed-protections/)
 * [A Hit Podcast without Listeners](https://discoverpods.com/game-hack-manipulate-apple-podcast-charts-itunes/?utm_source=podnews.net&utm_medium=email&utm_campaign=podnews.net:2018-02-16)
 * [The Trump-Fox News Hamster Wheel Ouroboros](https://www.politico.com/magazine/story/2018/01/05/trump-media-feedback-loop-216248)
-* [Rex Tillerson relies on Wild West Fantasy](https://www.cbsnews.com/amp/news/rex-tillerson-secretary-of-state-60-minutes-interview/)
+* [Rex Tillerson's compass is Wild West Fantasy](https://www.cbsnews.com/amp/news/rex-tillerson-secretary-of-state-60-minutes-interview/)
 * [At least read the editor's note](http://www.newsweek.com/newsweek-manhattan-da-olivet-university-david-jang-fired-new-york-media-813949)
 
 
