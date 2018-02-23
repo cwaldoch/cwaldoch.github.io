@@ -46,7 +46,7 @@ I closed out the analysis on one annual report at work, and immediately moved on
 # Twitter Notes
 
 * [On gerrymandering in PA](https://twitter.com/cfidd/status/966517489256550401)
-* [NYT Opinion. . . ¯\_(ツ)_/¯](https://twitter.com/dylanmatt/status/965578876956143616)
+* [NYT Opinion. . . ](https://twitter.com/dylanmatt/status/965578876956143616)¯\_(ツ)_/¯
 * [All the warning signs in the world](https://twitter.com/mattdpearce/status/964526122376376321)
 * [A Face-meltingly hot take on shooting survivors](https://twitter.com/natesilver538/status/965991712551251968)
 * [Trump is Twitter, Twitter is Trump](https://twitter.com/mattyglesias/status/966726039807385600)
