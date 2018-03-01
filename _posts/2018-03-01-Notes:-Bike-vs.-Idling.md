@@ -1,0 +1,20 @@
+### Biking and Congestion
+
+I came across a a comment or article on the internet the other day that was questioning the efficacy of increased bike transit under the author's assumption that it would dramatically increase congestion and wipe out any benefits.
+
+Let's refer [to the EPA](https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle) for some starting numbers. Here we find the typical passenger vehicle emits 411 grams of CO2 per mile. Using this accounting, the commuter who swaps in a bike saves 411x2x10 = 8220 grams of CO2 per day (at the minimal cost of increased respiration).
+
+Annoyingly, it was rather difficult to find idling rates on my phone. Rather, I was swamped in the now well tread research around the inefficiency of idling in general. If you're doing got be sitting for more than 10 seconds you should turn your car off rather than let it idle. One recent figure I saw had idling pegged at 1.6% of total US emissions, which is quite a lot for something we don't think about very much. In some cases we've even been encouraged to do to it to avoid overly stressing our cars, but modern fuel injection engines are pretty much ready to go immediately, and your parents' experience probably doesn't apply to whatever you're driving today.
+
+The Department of Energy produced [a writeup](https://www.afdc.energy.gov/uploads/publication/which_is_greener.pdf) of some Argonne National Lab (ANL) research which gave me a close enough number of 0.588 grams of CO2 per second of idling for a 2011 Ford Fusion. While not the perfect average test vehicle, it should be fairly representative of denser urban metros. An interesting thought experiment here is that in places where the Ford Fusion is less representative (like in eastern Tennessee, where I used to live) the value of an individual switching to a bike is much stronger since they're more likely to be coming from a less efficient vehicle, but the infrastructure deficit and socio-cultural disdain for alternative transit make bike commuting considerably more dangerous and less convenient.
+
+# Numbers and Graph
+
+Returning to the original question, what sort of additional emissions might the bike cause? In a worse case scenario where there is no bike dedicated infrastructure it might cause a minor slowdown at each traffic light. We can vary the traffic lights, cars impacted, and second impact to get some nice curves. My opening methodology is to generate 30 "total idling seconds" amounts for cars behind the bike from 1 to 30. To do that I'm assigning 5 seconds to the first car in line, 4 to the second, and so on down to 1, and then assigning 1 to every other car remaining then summing the total. Then, I'm plotting 10 lines for different numbers of lights on the route 
+
+![](https://farm5.staticflickr.com/4673/25683516257_f6287d9a1f_c.jpg)
+
+# Results 
+I haven't even plotted the break even line here because these potential increased emisisons are so much smaller that the scale would be ridiculous. At 30 cars and 10 lights we've only reached 235 grams of additional CO2, or 2.85% of the avoided CO2 from biking. Granted, this test vehicle could be more efficient than the "average" passenger car we used to determine the bicycle offset, but even when doubling the idling CO2 rate, the total emissions rebound is less than 6% of the total. Each additional 1 second car, only adds 0.588 grams of CO2 per light and each light adds around 24 grams, so in order to make up the rest of the 7985 gram difference you need an additional 13,580 cars or more than 330 additional lights.
+
+While the math isn't impregnable here (you could choose quite a few different factors and routings), it appears quite clear that in order to cause more emissions by switching to bike commuting one would have to work tremendously hard to slow and stop a massive number of vehicles. Realistically, biking to work is nearly an unmitigated good (or it would be, if it wasn't unfortunately dangerous across much of the USA).
