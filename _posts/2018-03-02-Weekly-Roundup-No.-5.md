@@ -12,15 +12,15 @@ We've seen this play out over and over throughout the administration's first yea
 ## News and Interesting Links
 
 * Evolutionary Strats, making a comeback ([The Verge](https://www.theverge.com/tldr/2018/2/28/17062338/ai-agent-atari-q-bert-cracked-bug-cheat))
-* Ancestry.com, for Guns([GQ](https://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns/))
-* Bitcoin in NY([NY Times](https://www.nytimes.com/2018/02/28/business/economy/bitcoin-electricity-productivity.html))
+* Ancestry.com, for Guns ([GQ](https://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns/))
+* Bitcoin in NY ([NY Times](https://www.nytimes.com/2018/02/28/business/economy/bitcoin-electricity-productivity.html))
 * China :/ ([Jerome Cohen](http://www.jeromecohen.net/jerrys-blog/china-is-likely-to-enter-another-long-period-of-severe-dictatorship))
 * Trump's Indian Health Services pick lied about his resumé, experience ([NY Times](https://nytimes.com/2018/02/22/us/politics/indian-health-service-robert-weaver.html))
-* A Suicide Cliff Guardian in Japan([LA Times](http://www.latimes.com/world/asia/la-fg-japan-suicide-20180222-story.html?outputType=amp))
+* A Suicide Cliff Guardian in Japan ([LA Times](http://www.latimes.com/world/asia/la-fg-japan-suicide-20180222-story.html?outputType=amp))
 ![]()
 
 ## Longer, Deeper Reads
-* Where Chicago's Guns Come From([ProPublica](https://www.propublica.org/article/how-chicago-gets-its-gun))
+* Where Chicago's Guns Come From ([ProPublica](https://www.propublica.org/article/how-chicago-gets-its-gun))
 * Climate Migration. But, hey, Madison looks pretty nice.([Rolling Stone](https://www.rollingstone.com/politics/news/welcome-to-the-age-of-climate-migration-w516974))
 * We did the Russian Rocket First (and also I worked at LLNL in grad school, it was cool!) ([Merkle](http://www.merkle.com/pluto/pluto.html))
 * The 1908 Suffragette Board Game ([GA Tech](http://pwp.gatech.edu/suffragetto/historiography/))
@@ -32,10 +32,10 @@ It's happening all around us, all of the time. This week there seemed to be quit
 
 * Let's start with this piece from Matt Yglesias on just the very thorough way that Trump has subverted and corrupted traditional norms and laws in order to profit. Dude has no empathy, desparately craves cash, is devoid of ethics, and happens to be President. What could go wrong!([Vox](https://www.vox.com/policy-and-politics/2018/3/1/17056562/trump-corruption-midterms))
 * Kushner's no good very bad deal ([Bloomberg](https://www.bloomberg.com/graphics/2017-kushners-china-deal-flop-was-part-of-much-bigger-hunt-for-cash/))
-* Start for the intrigue, stay for the pathetic Republican Stinger([Buzzfeed](https://www.buzzfeed.com/amphtml/tariniparti/as-trump-spirals-many-of-his-staffers-are-looking-to-exit?utm_term=.xqz8KO7dj))
-* Weaker pipelines, shadier loans([think progress](https://thinkprogress.org/trump-rolled-back-pipeline-safety-regulations-benefiting-equity-firm-that-loaned-money-to-kushner-ca1c372857d7/))
+* Start for the intrigue, stay for the pathetic Republican Stinger ([Buzzfeed](https://www.buzzfeed.com/amphtml/tariniparti/as-trump-spirals-many-of-his-staffers-are-looking-to-exit?utm_term=.xqz8KO7dj))
+* Weaker pipelines, shadier loans ([think progress](https://thinkprogress.org/trump-rolled-back-pipeline-safety-regulations-benefiting-equity-firm-that-loaned-money-to-kushner-ca1c372857d7/))
 * Down with scientists, up with regulatory capture ([The Hill](http://thehill.com/opinion/energy-environment/375308-trumps-epa-replaced-scientists-with-industry-advisors-under-the?amp))
-* And the Nobel/Einstein Visa for non-super modeling goes to . . ([Washington Post](https://www.washingtonpost.com/amphtml/politics/questions-linger-about-how-melania-trump-a-slovenian-model-scored-the-einstein-visa/2018/02/28/d307ddb2-1b35-11e8-ae5a-16e60e4605f3_story.html)
+* And the Nobel/Einstein Visa for non-super modeling goes to. . . ([Washington Post](https://www.washingtonpost.com/amphtml/politics/questions-linger-about-how-melania-trump-a-slovenian-model-scored-the-einstein-visa/2018/02/28/d307ddb2-1b35-11e8-ae5a-16e60e4605f3_story.html)
 * Carson under the gun for spending at HUD. As a reminder, there's basically no real reason Carson should be in charge of HUD. ([NPR](https://www.npr.org/2018/02/28/589493664/ben-carson-and-hud-face-allegations-of-lavish-spending-including-31-000-furnitur?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180228))
 * Russia and the NRA and Trump, found on Twitter! It. Never. Stops.([NPR](http://n.pr/2FJXKY2))
 * Team Trump's own Uranium Deal ([Bloomberg](https://www.bloomberg.com/amp/news/articles/2018-02-26/u-s-energy-chief-is-said-to-plan-nuclear-deal-talks-with-saudis))
@@ -51,10 +51,10 @@ Also, the President doesn't know a thing about trade, and is possibly sorely lac
 * The ad value of Trump's hideous discourse ([Twitter](https://twitter.com/nycsouthpaw/status/967464280592445440)
 * The Federalist is beyond parody.([Twitter](https://twitter.com/federalistpitch/status/967053666271354880))
 * Chicago is not an border city.([Twitter](https://twitter.com/mattyglesias/status/967111755703996417))
-* Guns are expensive([Twitter](https://twitter.com/jndevereux/status/967523062123057158))
+* Guns are expensive ([Twitter](https://twitter.com/jndevereux/status/967523062123057158))
 * Bitcoin in one tweet([Twitter](https://twitter.com/k_morrissey/status/967607295956758528))
-* 2A History Lesson([Twitter](https://twitter.com/egavactip/status/967923256983420928))
-* Feb in Trumpland([Twitter](https://twitter.com/daneggenwpost/status/969181140941549569?s=21))
+* 2A History Lesson ([Twitter](https://twitter.com/egavactip/status/967923256983420928))
+* Feb in Trumpland ([Twitter](https://twitter.com/daneggenwpost/status/969181140941549569?s=21))
 
 ![]()
 # Research and Econ Things
@@ -74,12 +74,4 @@ Also, the President doesn't know a thing about trade, and is possibly sorely lac
 * This is the opposite of the gay marriage issue evolution. The more it's a cultural issue, the more they cede their quite spotty constitutional ground. 
 * Freight train vs trucks vs commuter rail vs driving, emissions optimality
 * Americans to-be initially rejected the city in founding and colonization only to create one of its purest forms and the urban juggernaut of at least the latter half of the 20th century. Or did they? Well, I guess the longstanding affection for yards, gated communities, and suburbs speaks to some inner desire to be of the landed. I want to say that goes all the way back to very early communities in New Jersey along with the various agrarian, technophobic religious sects that have occasionally taken root.
-
-
-
-
-
-
-
-
 
