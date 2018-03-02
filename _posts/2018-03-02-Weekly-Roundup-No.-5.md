@@ -50,6 +50,7 @@ It's happening all around us, all of the time. This week there seemed to be quit
 * Zinke tried to snag actual fire fighting pilots to be his chauffeurs.([CNN](https://amp.cnn.com/cnn/2018/02/27/politics/ryan-zinke-nra/index.html))
 
 Also, the President doesn't know a thing about trade, and is possibly sorely lacking in basic arithmetic like counting and seeing which numbers are higher (Hint: far more Americans work in businesses that use steel than those who are in steelworking). 
+
 ![](https://farm5.staticflickr.com/4675/40572778511_1957cc484a_z.jpg)
 
 # Twitter has Content
