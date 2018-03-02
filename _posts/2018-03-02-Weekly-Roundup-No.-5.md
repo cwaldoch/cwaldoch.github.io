@@ -45,7 +45,7 @@ It's happening all around us, all of the time. This week there seemed to be quit
 
 * Carson under the gun for spending at HUD. As a reminder, there's basically no real reason Carson should be in charge of HUD. ([NPR](https://www.npr.org/2018/02/28/589493664/ben-carson-and-hud-face-allegations-of-lavish-spending-including-31-000-furnitur?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180228))
 
-* Russia and the NRA and Trump, found on Twitter! It. Never. Stops.([NPR](Depth Of Russian Politician's Cultivation Of NRA Ties Revealed http://n.pr/2FJXKY2))
+* Russia and the NRA and Trump, found on Twitter! It. Never. Stops.([NPR](http://n.pr/2FJXKY2))
 * Team Trump's own Uranium Deal ([Bloomberg](https://www.bloomberg.com/amp/news/articles/2018-02-26/u-s-energy-chief-is-said-to-plan-nuclear-deal-talks-with-saudis))
 * Zinke tried to snag actual fire fighting pilots to be his chauffeurs.([CNN](https://amp.cnn.com/cnn/2018/02/27/politics/ryan-zinke-nra/index.html))
 
@@ -55,7 +55,7 @@ It's happening all around us, all of the time. This week there seemed to be quit
 * Trump is a monster, cont.([Twitter](https://twitter.com/mattmfm/status/967474049013121027))
 * The ad value of Trump's hideous discourse ([Twitter](https://twitter.com/nycsouthpaw/status/967464280592445440)
 * The Federalist is beyond parody.([Twitter](https://twitter.com/federalistpitch/status/967053666271354880))
-* Chicago is not an border city.([Twitter]https://twitter.com/mattyglesias/status/967111755703996417))
+* Chicago is not an border city.([Twitter](https://twitter.com/mattyglesias/status/967111755703996417))
 * Guns are expensive([Twitter](https://twitter.com/jndevereux/status/967523062123057158))
 * Bitcoin in one tweet([Twitter](https://twitter.com/k_morrissey/status/967607295956758528))
 * 2A History Lesson([Twitter](https://twitter.com/egavactip/status/967923256983420928))
