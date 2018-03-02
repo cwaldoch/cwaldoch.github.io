@@ -7,7 +7,7 @@ The gist of the argument is that while it might seem useful and good to the Trum
 
 We've seen this play out over and over throughout the administration's first year (although not as much at the cabinet level, yet), to the point where it seems like the preferable outcome would have been to put forward pure the ideologue, lose confirmation by a vote or two, and then easily pass a steady, but qualified and knowledge conservative. At least, that seems like a more reasonable strategy to me. Don't forget, [Trump's been pushing for his private pilot to lead the FAA](https://www.axios.com/exclusive-trump-privately-pushing-personal-pilot-to-run-faa-1519595187-5a735cc4-63e6-4348-b980-1aadf0b8e80d.html)!
 
-![](https://www.flickr.com/photos/23215983@N02/40572326001
+![](https://farm5.staticflickr.com/4609/40572326001_ba1cb04853_c.jpg)
 
 ## News and Interesting Links
 
