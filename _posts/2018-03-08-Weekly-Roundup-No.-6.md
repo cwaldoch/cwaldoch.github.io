@@ -1,7 +1,7 @@
 ### Weekly Roundup No. 6 March 8th, 2018
 
 
-Heading into the strong crunch time of my year. Annual report season stretches from mid-January into May, escalating along the way. This time of March is when I look around and realize I'm about to submerge for good for a bit. All said, these sections might be shorter moving forward, although up to this point I've suprised myself with the amount of reading I've been able to cram in around the edges.It's easy enough for me to include links, always harder to write up any narrative. Despite that, I did find the time to [consider the Rocky Mountain Locust in the context of climate change](http://connorwaldoch.com/blog/2018/03/08/The-Rocky-Mountain-Locust-and-Known-Unknowns).
+Heading into the strong crunch time of my year. Annual report season stretches from mid-January into May, escalating along the way. This time of March is when I look around and realize I'm about to submerge for good for a bit. All said, these sections might be shorter moving forward, although up to this point I've suprised myself with the amount of reading I've been able to cram in around the edges.It's easy enough for me to include links, always harder to write up any narrative. Despite that, I did find the time to [consider the Rocky Mountain Locust in the context of climate change](http://connorwaldoch.com/blog/2018/03/08/The-Rocky-Mountain-Locust-and-Known-Unknowns). I'd also recommend checking out the [New Yorker's piece on Christopher Steele](https://www.newyorker.com/magazine/2018/03/12/christopher-steele-the-man-behind-the-trump-dossier). Every accounting of that whole timeline has helped me understand the entire Russia thing better, and this is one of the most comprehensive looks so far.
 
 ![](https://i.imgur.com/PlliZvR.png)
 
