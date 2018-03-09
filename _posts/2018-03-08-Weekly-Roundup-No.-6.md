@@ -3,6 +3,7 @@
 
 Heading into the strong crunch time of my year. Annual report season stretches from mid-January into May, escalating along the way. This time of March is when I look around and realize I'm about to submerge for good for a bit. All said, these sections might be shorter moving forward, although up to this point I've suprised myself with the amount of reading I've been able to cram in around the edges.It's easy enough for me to include links, always harder to write up any narrative.
 
+![](https://i.imgur.com/PlliZvR.png)
 
 ## Newsy Link Rundown
 
