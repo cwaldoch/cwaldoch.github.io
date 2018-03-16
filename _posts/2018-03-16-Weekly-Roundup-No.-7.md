@@ -4,7 +4,7 @@ Fully in it this week. Still managing to make it to the gym, but no longer runni
 
 I live 4-5 blocks from my metro station. The last two blocks on the way there have affordable/public housing along one side of the street. Alexandria has a particularly strong set of (largely unique) local resolutions that have led to pockets of this type of housing in what are otherwise much more affluent areas. This morning I was early enough to cross paths with an elderly African American woman whom I had seen heading inside on previous mornings. This morning I realized why she was always out so early, to clean up her stretch of sidewalk. She was sweeping and tidying up in general. This really stuck out in comparison to my street only 3-4. There, the elderly contingent is almost entirely affluent white folks living in either old, historical homes or new builds on the land of former public housing. These individuals are often more interested in taking over the strips of grass between sidewalks and street, bricking over them or ever fencing them off from use with ankle-high walls. This disparity stood out to me, and I just felt bad.
 
-![](https://farm1.staticflickr.com/803/26968995768_827d72747a_c.jpg))
+![](https://farm1.staticflickr.com/803/26968995768_827d72747a_c.jpg)
 
 ## News and Things
 * lol small modular coal ([Greentechmedia](https://www.greentechmedia.com/amp/article/trump-doe-small-modular-coal-plants-what-does-that-mean))
@@ -18,6 +18,7 @@ I live 4-5 blocks from my metro station. The last two blocks on the way there ha
 * Kudlow is. . . yeesh ([Bloomberg](https://www.bloomberg.com/amp/view/articles/2018-03-14/trump-s-pick-of-larry-kudlow-shows-gop-is-out-of-economic-ideas?))
 * Trump invents trade facts ([WaPo](https://www.washingtonpost.com/news/post-politics/wp/2018/03/14/in-fundraising-speech-trump-says-he-made-up-facts-in-meeting-with-justin-trudeau/?utm_term=.d7c79d92a46c)
 * Trump dead set on cronies, dysfunction; trying to find a soft landing for McMaster ([WaPo](https://www.washingtonpost.com/?utm_term=.031dffeb81c1))
+
 ![]()
 
 ## Econ and Other Research
@@ -26,12 +27,14 @@ I live 4-5 blocks from my metro station. The last two blocks on the way there ha
 * Seems survey response is driving measures of high partisanship ([UChicaho](https://www.journals.uchicago.edu/doi/abs/10.1086/695853))
 * Accounting for factorless income ([NBER](http://nber.org/papers/w24404))
 * Polling accuracy remains steady ([Nature](https://www.nature.com/articles/s41562-018-0315-6.epdf))
+
 ![]()
 
 ## Longreads
 
 * Bitcoin in town ([Politico](https://www.politico.com/magazine/story/2018/03/09/bitcoin-mining-energy-prices-smalltown-feature-217230))
 * Paths to deep decarbonization ([BNEF](https://about.bnef.com/blog/liebreich-beyond-three-thirds-road-deep-decarbonization/))
+
 ![]()
 
 ## Misc
