@@ -26,7 +26,7 @@ Pie courtesy of my lovely partner, who departed the next morning for a conferenc
 ## Econ and Other Research
 * How we're partisan now ([Vanderbilt](https://www.vanderbilt.edu/csdi/includes/Workingpaper2_2108.pdf))
 * Cost of short-term rentals in NYC ([McGill](https://mcgill.ca/newsroom/files/newsroom/channels/attach/airbnb-report.pdf))
-* Seems survey response is driving measures of high partisanship ([UChicaho](https://www.journals.uchicago.edu/doi/abs/10.1086/695853))
+* Seems survey response is driving measures of high partisanship ([UChicago](https://www.journals.uchicago.edu/doi/abs/10.1086/695853))
 * Accounting for factorless income ([NBER](http://nber.org/papers/w24404))
 * Polling accuracy remains steady ([Nature](https://www.nature.com/articles/s41562-018-0315-6.epdf))
 
