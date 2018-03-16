@@ -4,7 +4,7 @@ Fully in it this week. Still managing to make it to the gym, but no longer runni
 
 I live 4-5 blocks from my metro station. The last two blocks on the way there have affordable/public housing along one side of the street. Alexandria has a particularly strong set of (largely unique) local resolutions that have led to pockets of this type of housing in what are otherwise much more affluent areas. This morning I was early enough to cross paths with an elderly African American woman whom I had seen heading inside on previous mornings. This morning I realized why she was always out so early, to clean up her stretch of sidewalk. She was sweeping and tidying up in general. This really stuck out in comparison to my street only 3-4. There, the elderly contingent is almost entirely affluent white folks living in either old, historical homes or new builds on the land of former public housing. These individuals are often more interested in taking over the strips of grass between sidewalks and street, bricking over them or ever fencing them off from use with ankle-high walls. This disparity stood out to me, and I just felt bad.
 
-![](
+![](https://farm1.staticflickr.com/803/26968995768_827d72747a_c.jpg))
 
 ## News and Things
 * lol small modular coal ([Greentechmedia](https://www.greentechmedia.com/amp/article/trump-doe-small-modular-coal-plants-what-does-that-mean))
