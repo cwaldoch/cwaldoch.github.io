@@ -16,7 +16,7 @@ I live 4-5 blocks from my metro station. The last two blocks on the way there ha
 * Alabama sheriff steals $750k, buys $740k home ([AL.com](https://articles.al.com/news/birmingham/index.ssf/2018/03/etowah_sheriff_pocketed_over_7))
 * Trump's Assistant got the perp-walk ([WSJ](https://www.wsj.com/articles/trumps-personal-assistant-is-fired-1520945928?))
 * Kudlow is. . . yeesh ([Bloomberg](https://www.bloomberg.com/amp/view/articles/2018-03-14/trump-s-pick-of-larry-kudlow-shows-gop-is-out-of-economic-ideas?))
-* Trump invents trade facts ([WaPo](https://www.washingtonpost.com/news/post-politics/wp/2018/03/14/in-fundraising-speech-trump-says-he-made-up-facts-in-meeting-with-justin-trudeau/?utm_term=.d7c79d92a46c)
+* Trump invents trade facts ([WaPo](https://www.washingtonpost.com/news/post-politics/wp/2018/03/14/in-fundraising-speech-trump-says-he-made-up-facts-in-meeting-with-justin-trudeau/?utm_term=.d7c79d92a46c))
 * Trump dead set on cronies, dysfunction; trying to find a soft landing for McMaster ([WaPo](https://www.washingtonpost.com/?utm_term=.031dffeb81c1))
 
 ![]()
