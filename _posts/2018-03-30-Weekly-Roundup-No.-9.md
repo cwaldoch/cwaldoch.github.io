@@ -1,6 +1,6 @@
 ### Weekly Roundup-No. 9 2018-03-30
 
-Still recovering a bit from the bachelor party last weekend. Not so much in a physical sense as much as a "dear god this disrupted my current workflow." I also spent 2.5 hours on the metro on my way home yesterday due to its chronic mismanagement and complete bottleneck around Rosslyn. In that sense, click through here to gaze upon our [old regional transit](https://www.flickr.com/photos/52055881@N07/24975713081/). We're headed down to Westmoreland State park this weekend. It would be neat to find some Megalodon teeth. 
+Still recovering a bit from the bachelor party last weekend. Not so much in a physical sense as much as a "dear god this disrupted my current workflow." I also spent 2.5 hours on the metro on my way home yesterday due to its chronic mismanagement and complete bottleneck around Rosslyn. For some historical transit context, click through here to gaze upon our [old regional transit](https://www.flickr.com/photos/52055881@N07/24975713081/). We're headed down to Westmoreland State park this weekend. It would be neat to find some Megalodon teeth. 
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Megalodon_scale.svg/842px-Megalodon_scale.svg.png)
