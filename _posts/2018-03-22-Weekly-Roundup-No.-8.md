@@ -4,14 +4,12 @@ I'm on a train to NYC for a bachelor party, I can't come up with any coherent na
 
 
 ## Things
-
-
 * Historic transit of the capital area ([Flickr](https://flic.kr/p/E424mM))
 * Conspiracy lawyers supporting Trump ([WaPo](https://www.washingtonpost.com/amphtml/news/the-fix/wp/2018/03/19/trump-is-reportedly-hiring-a-conspiracy-theorist-for-his-legal-team-heres-what-joe-digenova-has-said/))
-* How does AT&T deal not trip the HMT (hypotehtical monopoly test), a small but measurable and enduring increase in costs is clearly a trigger for this type of enforcement. "Non-transitory" is the key language and it meets that.
+* How does AT&T deal not trip the HMT (hypothetical monopoly test), a small but measurable and enduring increase in costs is clearly a trigger for this type of enforcement. "Non-transitory" is the key language and it meets that.
 * Congestion Pricing in NBER ([NBER](http://www.nber.org/papers/w24410?utm_campaign=ntw&utm_medium=email&utm_source=ntw))
-* 
-
+ 
+![]()
 ## A timeline, beginning summer, 2016.
 1. James Comey awkwardly and publicly "closes" the Hillary Clinton investigation while also admonishing her with weird non-legal language.
 2. Election continues into the fall.
