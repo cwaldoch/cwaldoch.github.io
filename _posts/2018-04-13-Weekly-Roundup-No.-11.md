@@ -1,6 +1,6 @@
 ### Weekly Roundup-No. 11 2018-04-13
 
-Discovered over the last week just how scorching hot the housing market in this area is. We decided to dip our toes in the water and put a bid in on a place we loved. It was on the market for 5 days. It got 18 offers, and sold for $50k over lsit. I'm beginning to suspect we are not even remotely prepared or in a position to acquire a workable permanent home in the near term. 
+Discovered over the last week just how scorching hot the housing market in this area is. We decided to dip our toes in the water and put a bid in on a place we loved. It was on the market for 5 days. It got 18 offers, and sold for $50k over list. I'm beginning to suspect we are not even remotely prepared or in a position to acquire a workable permanent home in the near term. 
 
 Sometimes I think it would have been easier to just stay in Chicago.
 
