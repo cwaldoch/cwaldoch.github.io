@@ -19,7 +19,6 @@ Sometimes I think it would have been easier to just stay in Chicago.
 * Pruitt lobbyist landlord being forced out at his firm. ([Daily Beast](https://www.thedailybeast.com/scott-pruitts-lobbyist-landlord-being-pressured-to-leave-his-firm))
 * US Health Care has too much red tape ([Bloomberg View](https://www.bloomberg.com/view/articles/2018-03-26/medical-billing-bogs-down-u-s-health-care-system))
 * Federal Judge Nominee also just happens to have killed a Trump University lawsuit ([Dallas News](https://www.dallasnews.com/news/politics/2018/04/11/trump-nominee-federal-judge-killed-texas-lawsuit-trump-university))
-* The ([MotherJones]())
 
 ![]()
 ## Academic and Econ
