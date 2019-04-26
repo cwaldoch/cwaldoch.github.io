@@ -1,2 +1,23 @@
-<iframe src="https://my-dash-app-test12345.herokuapp.com/"
-width="1200" height="800"></iframe>
+<div class="iframe-container">
+<iframe src="https://my-dash-app-test12345.herokuapp.com/ allowfullscreen></iframe>
+</div>
+             
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+  padding-top: 75%;
+}
